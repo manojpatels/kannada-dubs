@@ -86,12 +86,19 @@
     status.textContent = "Sending…";
     fetch(form.action, { method: "POST", body: new FormData(form), headers: { Accept: "application/json" } })
       .then(function (r) {
-        if (!r.ok) throw new Error();
-        form.reset();
-        status.textContent = "Thanks. Your report was sent and will be checked against a source.";
+        return r.json().catch(function () { return {}; }).then(function (body) {
+          if (!r.ok) {
+            var msg = body.errors && body.errors.length ? body.errors.map(function (x) { return x.message; }).join(" ") : "";
+            throw new Error(msg);
+          }
+          form.reset();
+          status.textContent = "Thanks. Your report was sent and will be checked against a source.";
+        });
       })
-      .catch(function () {
-        status.textContent = "The report didn't send. Check your connection and try again.";
+      .catch(function (err) {
+        status.textContent = err.message
+          ? "The report didn't send: " + err.message
+          : "The report didn't send. Check your connection and try again.";
       });
   });
 })();

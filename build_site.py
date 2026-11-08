@@ -12,7 +12,6 @@ import html
 import json
 import os
 import re
-import shutil
 from datetime import date
 
 import dashboard_export as data
@@ -310,6 +309,7 @@ def report_page():
   <textarea id="details" name="details" rows="5" maxlength="2000" required placeholder="For example: released in Kannada on Netflix on 9 July 2026."></textarea>
   <label for="email">Your email <span class="opt-note">(optional, only if you'd like a reply)</span></label>
   <input id="email" name="email" type="email" autocomplete="email">
+  <input type="hidden" name="_subject" value="Kannada dubs: new report">
   <input type="text" name="_gotcha" class="vh" tabindex="-1" autocomplete="off" aria-hidden="true">
   <button type="submit">Send report</button>
   <p id="status" role="status"></p>
@@ -380,13 +380,7 @@ def main():
         raise SystemExit("Data files are being written; run again in a moment.")
     rows = built[0]
     by_lang = {l: [r for r in rows if r["lang"] == l] for l in LANGS}
-    if os.path.isdir(OUT):
-        for name in os.listdir(OUT):                      # keep the folder, replace generated pages
-            p = os.path.join(OUT, name)
-            if name in ("style.css", "app.js", "favicon.svg", "_headers"):
-                continue
-            shutil.rmtree(p) if os.path.isdir(p) else os.remove(p)
-    os.makedirs(OUT, exist_ok=True)
+    os.makedirs(OUT, exist_ok=True)                     # pages are overwritten in place
     home(rows, by_lang)
     for l in LANGS:
         lang_page(l, by_lang[l], by_lang)

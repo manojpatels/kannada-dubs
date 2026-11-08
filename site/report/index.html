@@ -31,8 +31,8 @@
   </div>
 </header>
 <main id="main" class="page">
-<p class="warn">The form isn't connected yet, so submissions won't be delivered.</p>
-<form id="report" method="POST" action="">
+
+<form id="report" method="POST" action="https://formspree.io/f/myeeaqkq">
   <fieldset>
     <legend>What would you like to report?</legend>
     <label class="opt"><input type="radio" name="type" value="Missing film" required> A film dubbed into Kannada is missing</label>
@@ -52,6 +52,7 @@
   <textarea id="details" name="details" rows="5" maxlength="2000" required placeholder="For example: released in Kannada on Netflix on 9 July 2026."></textarea>
   <label for="email">Your email <span class="opt-note">(optional, only if you'd like a reply)</span></label>
   <input id="email" name="email" type="email" autocomplete="email">
+  <input type="hidden" name="_subject" value="Kannada dubs: new report">
   <input type="text" name="_gotcha" class="vh" tabindex="-1" autocomplete="off" aria-hidden="true">
   <button type="submit">Send report</button>
   <p id="status" role="status"></p>
