@@ -1,0 +1,39 @@
+# Weekly: check Wikipedia and streaming news, rebuild the site, push.
+# Cloudflare Pages publishes every push automatically.
+name: Weekly update
+
+on:
+  schedule:
+    - cron: "17 9 * * 1"        # Mondays 09:17 UTC (2:47 pm in India, 3:17 am in Wisconsin)
+  workflow_dispatch:             # "Run workflow" button for a run on demand
+
+permissions:
+  contents: write                # commit the updated data and pages
+  issues: write                  # open an issue listing what needs a human check
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - run: python3 update.py
+      - run: python3 build_site.py
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "Weekly update $(date -u +%F)"
+          git push
+      - name: Open an issue if anything needs review
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ -s review_new.md ]; then
+            gh issue create --title "Kannada dubs to review: $(date -u +%F)" --body-file review_new.md
+          fi

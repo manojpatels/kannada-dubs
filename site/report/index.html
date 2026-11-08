@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Report a mistake or a missing Kannada dubbed film</title>
+<meta name="description" content="Tell us about a film listed by mistake, wrong details, or a film dubbed into Kannada that&#x27;s missing from the list.">
+<link rel="canonical" href="https://kannada-dubs.pages.dev/report/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Kannada Dubbed Movies">
+<meta property="og:title" content="Report a mistake or a missing Kannada dubbed film">
+<meta property="og:description" content="Tell us about a film listed by mistake, wrong details, or a film dubbed into Kannada that&#x27;s missing from the list.">
+<meta property="og:url" content="https://kannada-dubs.pages.dev/report/">
+<meta name="twitter:card" content="summary">
+<meta name="theme-color" content="#F6F7F4">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Anek+Kannada:wdth,wght@75..125,300..800&display=swap">
+<link rel="stylesheet" href="/style.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to the list</a>
+<div class="wrap">
+<nav class="top" aria-label="Site"><a href="/">All films</a><a href="/english/">English</a><a href="/hindi/">Hindi</a><a href="/telugu/">Telugu</a><a href="/tamil/">Tamil</a><a href="/malayalam/">Malayalam</a><a href="/about/">About</a><a href="/report/" aria-current="page">Report</a></nav>
+<header class="mast small">
+  <a class="kn" href="/" lang="kn" aria-label="Kannada Dubbed Movies, home">ಕನ್ನ<span>ಡ</span></a>
+  <div>
+    <h1>Report a mistake or a missing film</h1>
+    <p>Every report is checked against a source before the list changes. A link to a news report, a streaming page or a Wikipedia article helps us confirm it quickly.</p>
+  </div>
+</header>
+<main id="main" class="page">
+<p class="warn">The form isn't connected yet, so submissions won't be delivered.</p>
+<form id="report" method="POST" action="">
+  <fieldset>
+    <legend>What would you like to report?</legend>
+    <label class="opt"><input type="radio" name="type" value="Missing film" required> A film dubbed into Kannada is missing</label>
+    <label class="opt"><input type="radio" name="type" value="Listed by mistake"> A film is listed by mistake</label>
+    <label class="opt"><input type="radio" name="type" value="Wrong details"> A film's details are wrong</label>
+    <label class="opt"><input type="radio" name="type" value="Other"> Something else</label>
+  </fieldset>
+  <label for="film">Film title</label>
+  <input id="film" name="film" required maxlength="200">
+  <div class="pair">
+    <div><label for="year">Year</label><input id="year" name="year" inputmode="numeric" maxlength="4" pattern="[0-9]{4}"></div>
+    <div><label for="lang">Original language</label><select id="lang" name="original_language"><option value="">Not sure</option><option>English</option><option>Hindi</option><option>Telugu</option><option>Tamil</option><option>Malayalam</option><option>Other</option></select></div>
+  </div>
+  <label for="link">Link to a source <span class="opt-note">(optional)</span></label>
+  <input id="link" name="source_link" type="url" placeholder="https://">
+  <label for="details">Details</label>
+  <textarea id="details" name="details" rows="5" maxlength="2000" required placeholder="For example: released in Kannada on Netflix on 9 July 2026."></textarea>
+  <label for="email">Your email <span class="opt-note">(optional, only if you'd like a reply)</span></label>
+  <input id="email" name="email" type="email" autocomplete="email">
+  <input type="text" name="_gotcha" class="vh" tabindex="-1" autocomplete="off" aria-hidden="true">
+  <button type="submit">Send report</button>
+  <p id="status" role="status"></p>
+</form>
+</main>
+</div>
+<footer class="site">
+  <p>Every film is listed with the source that shows its Kannada version. This site lists where films were released. It doesn't host or link to copies of films.</p>
+  <p>Sentences credited to Wikipedia are quoted under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>. The full list is free to download as <a href="/data/kannada-dubbed-movies.csv">CSV</a> or <a href="/data/kannada-dubbed-movies.json">JSON</a> under the same licence.</p>
+  <p><a href="/about/">How this list is made</a> · <a href="/report/">Report a mistake or a missing film</a> · Updated 2026-11-08</p>
+</footer>
+<script src="/app.js" defer></script>
+</body>
+</html>

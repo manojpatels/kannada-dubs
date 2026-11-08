@@ -1,0 +1,16 @@
+# Large or local-only working files (not needed by the site or the weekly job)
+sweep_progress.json
+sacnilk_progress.json
+*.tmp
+samples/
+__pycache__/
+dubs_data.js
+dashboard.html
+kannada_dubs.md
+*_v[0-9]*.py
+*_v[0-9]*.csv
+*_v[0-9]*.html
+.DS_Store
+github-workflow-update.yml
+deploy_*/
+.cloudflare-connected

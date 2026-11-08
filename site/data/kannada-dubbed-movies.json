@@ -1,0 +1,3086 @@
+{
+ "updated": "2026-11-08",
+ "licence": "CC BY-SA 4.0",
+ "films": [
+  {
+   "title": "Spider-Man: Brand New Day",
+   "year": "2026",
+   "original_language": "English",
+   "director": "Destin Daniel Cretton",
+   "starring": "Tom Holland; Zendaya; Sadie Sink; Jacob Batalon",
+   "status": "confirmed",
+   "evidence": "India release in English, Hindi, Tamil, Telugu, Malayalam and Kannada.",
+   "sources": "https://www.sacnilk.com/news/Marvel_Studios_Doctor_Strange_2_Locks_Final_Release_Date_In_India | https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day"
+  },
+  {
+   "title": "Avatar: Fire and Ash",
+   "year": "2025",
+   "original_language": "English",
+   "director": "James Cameron",
+   "starring": "Sam Worthington; Zoe Saldaña; Sigourney Weaver; Stephen Lang",
+   "status": "confirmed",
+   "evidence": "Released in India in English, Kannada, Tamil, Telugu, Malayalam and Hindi.",
+   "sources": "https://www.deccanherald.com/entertainment/avatar-fire-and-ash-trailer-james-cameron-set-to-take-pandora-to-new-heights-with-avatar-3-3743844 | https://en.wikipedia.org/wiki/Avatar:_Fire_and_Ash"
+  },
+  {
+   "title": "Deadpool & Wolverine",
+   "year": "2024",
+   "original_language": "English",
+   "director": "Shawn Levy",
+   "starring": "Ryan Reynolds; Hugh Jackman; Emma Corrin; Morena Baccarin",
+   "status": "confirmed",
+   "evidence": "Kannada dubbed version earned 0.02 crore at the India box office.",
+   "sources": "https://www.sacnilk.com/news/Deadpool_and_Wolverine_Streaming_Date_Announced_On_Disney_Plus_Hotstar | https://en.wikipedia.org/wiki/Deadpool_&_Wolverine"
+  },
+  {
+   "title": "Despicable Me 4",
+   "year": "2024",
+   "original_language": "English",
+   "director": "Chris Renaud",
+   "starring": "Steve Carell; Kristen Wiig; Pierre Coffin; Joey King",
+   "status": "confirmed",
+   "evidence": "Streamed on JioCinema Premium in English, Hindi, Tamil, Telugu, Kannada, Marathi and Bengali.",
+   "sources": "https://www.newsbytesapp.com/news/entertainment/despicable-me-4-to-premiere-on-jiocinema-on-november-5/story | https://en.wikipedia.org/wiki/Despicable_Me_4"
+  },
+  {
+   "title": "Dune: Part Two",
+   "year": "2024",
+   "original_language": "English",
+   "director": "Denis Villeneuve",
+   "starring": "Timothée Chalamet; Zendaya; Rebecca Ferguson; Josh Brolin",
+   "status": "confirmed",
+   "evidence": "Streamed on JioCinema Premium in English, Hindi, Tamil, Telugu, Kannada, Bengali and Marathi.",
+   "sources": "https://www.dailypioneer.com/2024/entertainment/-dune--part-two--to-stream-on-jiocinema-premium-in-august.html | https://en.wikipedia.org/wiki/Dune:_Part_Two"
+  },
+  {
+   "title": "Godzilla x Kong: The New Empire",
+   "year": "2024",
+   "original_language": "English",
+   "director": "Adam Wingard",
+   "starring": "Rebecca Hall; Brian Tyree Henry; Dan Stevens; Kaylee Hottle",
+   "status": "confirmed",
+   "evidence": "Streamed on JioCinema in English, Hindi, Tamil, Telugu, Kannada, Bengali and Marathi (theatrical release had no Kannada).",
+   "sources": "https://www.newsbytesapp.com/news/entertainment/when-where-to-watch-godzilla-x-kong-the-new-empire/story | https://en.wikipedia.org/wiki/Godzilla_x_Kong:_The_New_Empire"
+  },
+  {
+   "title": "Kung Fu Panda 4",
+   "year": "2024",
+   "original_language": "English",
+   "director": "Mike Mitchell",
+   "starring": "Jack Black",
+   "status": "confirmed",
+   "evidence": "Streamed on JioCinema Premium in English, Hindi, Tamil, Telugu, Kannada, Bengali and Marathi.",
+   "sources": "https://filmibeat.com/hollywood/news/2024/kung-fu-panda-4-ott-release-date-timing-in-india-when-where-to-watch-kung-fu-panda-4-hindi-dubbed-405765.html | https://en.wikipedia.org/wiki/Kung_Fu_Panda_4"
+  },
+  {
+   "title": "The Fall Guy",
+   "year": "2024",
+   "original_language": "English",
+   "director": "David Leitch",
+   "starring": "Ryan Gosling; Emily Blunt; Aaron Taylor-Johnson; Hannah Waddingham",
+   "status": "confirmed",
+   "evidence": "Streaming on JioHotstar from March 3, 2026 in English, Tamil, Telugu, Kannada, Hindi, Bengali and Marathi.",
+   "sources": "https://filmibeat.com/top-listing/the-fall-guy-ott-release-when-and-where-to-watch-the-action-comedy-on-jiohotstar-1-7300.html | https://en.wikipedia.org/wiki/The_Fall_Guy_(2024_film)"
+  },
+  {
+   "title": "The Wild Robot",
+   "year": "2024",
+   "original_language": "English",
+   "director": "Chris Sanders",
+   "starring": "Lupita Nyong'o; Pedro Pascal; Kit Connor; Bill Nighy",
+   "status": "confirmed",
+   "evidence": "Streaming on JioHotstar in English, Telugu, Tamil, Kannada and Hindi.",
+   "sources": "https://www.123telugu.com/?p=780404 | https://en.wikipedia.org/wiki/The_Wild_Robot"
+  },
+  {
+   "title": "Oppenheimer",
+   "year": "2023",
+   "original_language": "English",
+   "director": "Christopher Nolan",
+   "starring": "Cillian Murphy; Emily Blunt; Matt Damon; Robert Downey Jr",
+   "status": "confirmed",
+   "evidence": "Telugu, Tamil, Kannada, Marathi and Bengali versions added for streaming on JioCinema.",
+   "sources": "https://www.123telugu.com/?p=741275 | https://en.wikipedia.org/wiki/Oppenheimer_(film)"
+  },
+  {
+   "title": "Spider-Man: Across the Spider-Verse",
+   "year": "2023",
+   "original_language": "English",
+   "director": "Joaquim Dos Santos; Kemp Powers; Justin K. Thompson",
+   "starring": "Shameik Moore; Hailee Steinfeld; Brian Tyree Henry; Lauren Vélez",
+   "status": "confirmed",
+   "evidence": "Sony India released it in 10 languages including Kannada.",
+   "sources": "https://navjeevanexpress.com/?p=107411 | https://en.wikipedia.org/wiki/Spider-Man:_Across_the_Spider-Verse"
+  },
+  {
+   "title": "Avatar: The Way of Water",
+   "year": "2022",
+   "original_language": "English",
+   "director": "James Cameron",
+   "starring": "Sam Worthington; Zoe Saldaña; Sigourney Weaver; Stephen Lang",
+   "status": "confirmed",
+   "evidence": "20th Century Studios India released it in English, Hindi, Tamil, Telugu, Kannada and Malayalam.",
+   "sources": "https://www.dtnext.in/entertainment/cinema/avatar-2-producer-jon-landau-has-a-special-message-for-india | https://en.wikipedia.org/wiki/Avatar:_The_Way_of_Water"
+  },
+  {
+   "title": "Black Panther: Wakanda Forever",
+   "year": "2022",
+   "original_language": "English",
+   "director": "Ryan Coogler",
+   "starring": "Letitia Wright; Lupita Nyong'o; Danai Gurira; Winston Duke",
+   "status": "confirmed",
+   "evidence": "Theatrical release in Hindi, English, Telugu, Tamil, Malayalam and Kannada.",
+   "sources": "https://www.sacnilk.com/news/This_Weeks_Theatrical_And_OTT_Releases_November_911 | https://en.wikipedia.org/wiki/Black_Panther:_Wakanda_Forever"
+  },
+  {
+   "title": "Doctor Strange in the Multiverse of Madness",
+   "year": "2022",
+   "original_language": "English",
+   "director": "Sam Raimi",
+   "starring": "Benedict Cumberbatch; Elizabeth Olsen; Chiwetel Ejiofor; Benedict Wong",
+   "status": "confirmed",
+   "evidence": "Released in India in English plus Hindi, Tamil, Telugu, Kannada and Malayalam dubs.",
+   "sources": "https://www.indiatvnews.com/entertainment/hollywood/doctor-strange-sequel-madness-of-multiverse-mints-over-rs-10-cr-in-advance-booking-ahead-of-india-release-2022-04-27-772617 | https://en.wikipedia.org/wiki/Doctor_Strange_in_the_Multiverse_of_Madness"
+  },
+  {
+   "title": "Jurassic World Dominion",
+   "year": "2022",
+   "original_language": "English",
+   "director": "Colin Trevorrow",
+   "starring": "Chris Pratt; Bryce Dallas Howard; DeWanda Wise; Laura Dern",
+   "status": "confirmed",
+   "evidence": "Streamed on Amazon Prime Video in English, Tamil, Telugu, Malayalam, Kannada and Hindi (theatrical release had no Kannada).",
+   "sources": "https://www.123telugu.com/mnews/prime-video-announces-jurassic-world-dominions-ott-release-date.html | https://en.wikipedia.org/wiki/Jurassic_World_Dominion"
+  },
+  {
+   "title": "Thor: Love and Thunder",
+   "year": "2022",
+   "original_language": "English",
+   "director": "Taika Waititi",
+   "starring": "Chris Hemsworth; Christian Bale; Tessa Thompson; Jaimie Alexander",
+   "status": "confirmed",
+   "evidence": "Hit Indian theatres in English, Hindi, Tamil, Telugu, Malayalam and Kannada.",
+   "sources": "https://zeenews.india.com/hollywood/thor-love-and-thunder-ott-release-know-date-time-cast-and-more-2482827.html | https://en.wikipedia.org/wiki/Thor:_Love_and_Thunder"
+  },
+  {
+   "title": "Black Widow",
+   "year": "2021",
+   "original_language": "English",
+   "director": "Cate Shortland",
+   "starring": "Scarlett Johansson; Florence Pugh; David Harbour; O-T Fagbenle",
+   "status": "confirmed",
+   "evidence": "Streamed on Disney+ Hotstar in English, Hindi, Tamil, Telugu, Malayalam and Kannada.",
+   "sources": "https://www.techradar.com/news/black-widow-relese-date-spetmber-3-disney-plus-hotstar | https://en.wikipedia.org/wiki/Black_Widow_(2021_film)"
+  },
+  {
+   "title": "Eternals",
+   "year": "2021",
+   "original_language": "English",
+   "director": "Chloé Zhao",
+   "starring": "Gemma Chan; Richard Madden; Kumail Nanjiani; Lia McHugh",
+   "status": "confirmed",
+   "evidence": "Disney India released it in English, Hindi, Tamil, Telugu, Kannada and Malayalam.",
+   "sources": "https://www.outlookindia.com/website/story/entertainment-news-marvels-eternals-to-release-in-india-on-diwali/393734 | https://en.wikipedia.org/wiki/Eternals_(film)"
+  },
+  {
+   "title": "F9",
+   "year": "2021",
+   "original_language": "English",
+   "director": "Justin Lin",
+   "starring": "Vin Diesel; Michelle Rodriguez; Tyrese Gibson; Ludacris",
+   "status": "confirmed",
+   "evidence": "India release announced in English, Hindi, Tamil, Telugu and Kannada.",
+   "sources": "https://www.tribuneindia.com/news/entertainment/fast-and-furious-9-to-hit-indian-screens-on-august-5-280062 | https://en.wikipedia.org/wiki/F9_(film)"
+  },
+  {
+   "title": "Shang-Chi and the Legend of the Ten Rings",
+   "year": "2021",
+   "original_language": "English",
+   "director": "Destin Daniel Cretton",
+   "starring": "Simu Liu; Awkwafina; Meng'er Zhang; Fala Chen",
+   "status": "confirmed",
+   "evidence": "Released in India in English, Hindi, Telugu and Kannada (Tamil added later).",
+   "sources": "https://www.theweek.in/news/entertainment/2021/08/20/shang-chi-legend-ten-rings-release-indian-theatres-sept3.html | https://en.wikipedia.org/wiki/Shang-Chi_and_the_Legend_of_the_Ten_Rings"
+  },
+  {
+   "title": "Terminator: Dark Fate",
+   "year": "2019",
+   "original_language": "English",
+   "director": "Tim Miller",
+   "starring": "Arnold Schwarzenegger; Linda Hamilton; Mackenzie Davis; Natalia Reyes",
+   "status": "confirmed",
+   "evidence": "Kannada-dubbed version ran in Karnataka cinemas; trailer launched by Kichcha Sudeep.",
+   "sources": "https://www.deccanherald.com/india/karnataka/bengaluru/for-rajyotsava-state-welcomes-kannada-terminator-772776.html | https://en.wikipedia.org/wiki/Terminator:_Dark_Fate"
+  },
+  {
+   "title": "Wild Karnataka",
+   "year": "2019",
+   "original_language": "English",
+   "director": "Amoghavarsha JS; Kalyan Varma; Sharath Champati",
+   "starring": "",
+   "status": "confirmed",
+   "evidence": "Along with the English original, the film was dubbed and released in four Indian languages (Hindi, Tamil, Telugu and Kannada) on Discovery+ with Rajkummar Rao, Prakash Raj and Rishab Shetty providing voiceovers for their respective versions.",
+   "sources": "https://en.wikipedia.org/wiki/Wild_Karnataka"
+  },
+  {
+   "title": "Amoli",
+   "year": "2018",
+   "original_language": "English",
+   "director": "Jasmine Kaur Roy; Avinash Roy",
+   "starring": "",
+   "status": "confirmed",
+   "evidence": "The documentary was dubbed in several languages featuring the voices of: Rajkummar Rao (Hindi), Sachin Khedekar (Marathi), Jisshu Sengupta (Bengali) Nani (Telugu), Kamal Haasan (Tamil), and Puneeth Rajkumar (Kannada) lent their voices to the film.",
+   "sources": "https://en.wikipedia.org/wiki/Amoli_(film)"
+  },
+  {
+   "title": "The Fate of the Furious",
+   "year": "2017",
+   "original_language": "English",
+   "director": "F. Gary Gray",
+   "starring": "Vin Diesel; Dwayne Johnson; Jason Statham; Michelle Rodriguez",
+   "status": "confirmed",
+   "evidence": "Released in Karnataka cinemas in Kannada as Vega Mattu Udvega 8, the first Hollywood film dubbed into Kannada.",
+   "sources": "https://www.deccanherald.com/content/607086/now-hollywood-blockbuster-dubbed-kannada.html | https://en.wikipedia.org/wiki/The_Fate_of_the_Furious"
+  },
+  {
+   "title": "Avatar",
+   "year": "2009",
+   "original_language": "English",
+   "director": "James Cameron",
+   "starring": "Sam Worthington; Zoe Saldaña; Zoe Saldana; Stephen Lang",
+   "status": "confirmed",
+   "evidence": "Indian re-release (Sep 2022) listed with Telugu, Hindi, Tamil, Kannada and Malayalam versions.",
+   "sources": "https://boxoffice.sacnilk.com/tag/Sam_Worthington | https://en.wikipedia.org/wiki/Avatar_(2009_film)"
+  },
+  {
+   "title": "Dhurandhar: The Revenge",
+   "year": "2026",
+   "original_language": "Hindi",
+   "director": "Aditya Dhar",
+   "starring": "Ranveer Singh; Arjun Rampal; Sanjay Dutt; R. Madhavan",
+   "status": "confirmed",
+   "evidence": "Alongside its original Hindi language, it was also released in Telugu, Tamil, Malayalam, and Kannada.",
+   "sources": "https://en.wikipedia.org/wiki/Dhurandhar:_The_Revenge | https://www.jiostar.com/?p=5153"
+  },
+  {
+   "title": "Ramayana",
+   "year": "2026",
+   "original_language": "Hindi",
+   "director": "Nitesh Tiwari",
+   "starring": "Ranbir Kapoor; Sai Pallavi; Yash",
+   "status": "confirmed",
+   "evidence": "Sacnilk languages: Hindi, Kannada, Malayalam, Tamil, Telugu",
+   "sources": "https://www.sacnilk.com/movie/ramayana_part_1_2026"
+  },
+  {
+   "title": "The Kerala Story 2: Goes Beyond",
+   "year": "2026",
+   "original_language": "Hindi",
+   "director": "Kamakhya Narayan Singh",
+   "starring": "Ulka Gupta; Aditi Bhatia; Aishwarya Ojha",
+   "status": "confirmed",
+   "evidence": "Streaming on ZEE5 in Hindi with Telugu, Kannada, Tamil and Malayalam.",
+   "sources": "https://thecinemapost.com/ott-original/the-kerala-story-2-goes-beyond-ott-release-date-here-s-when-and-where-you-can-finally-stream-controversial-sequel"
+  },
+  {
+   "title": "Dhurandhar",
+   "year": "2025",
+   "original_language": "Hindi",
+   "director": "Aditya Dhar",
+   "starring": "Ranveer Singh; Akshaye Khanna; Arjun Rampal; R. Madhavan",
+   "status": "confirmed",
+   "evidence": "Alongside its original Hindi language, it was also released in the Telugu, Tamil, Malayalam, and Kannada languages.",
+   "sources": "https://en.wikipedia.org/wiki/Dhurandhar"
+  },
+  {
+   "title": "Bade Miyan Chote Miyan",
+   "year": "2024",
+   "original_language": "Hindi",
+   "director": "Ali Abbas Zafar",
+   "starring": "Akshay Kumar; Tiger Shroff; Prithviraj Sukumaran; Manushi Chhillar",
+   "status": "confirmed",
+   "evidence": "The film was released on 11 April in standard formats, 3D, and IMAX in Hindi alongside dubbed versions in Tamil, Telugu, Malayalam and Kannada languages.",
+   "sources": "https://en.wikipedia.org/wiki/Bade_Miyan_Chote_Miyan_(2024_film)"
+  },
+  {
+   "title": "12th Fail",
+   "year": "2023",
+   "original_language": "Hindi",
+   "director": "Vidhu Vinod Chopra",
+   "starring": "Vikrant Massey; Medha Shankr; Anant Joshi; Anshumaan Pushkar",
+   "status": "confirmed",
+   "evidence": "The film was released in theatres on 27 October 2023 in Hindi and Kannada languages.",
+   "sources": "https://en.wikipedia.org/wiki/12th_Fail"
+  },
+  {
+   "title": "Adipurush",
+   "year": "2023",
+   "original_language": "Hindi",
+   "director": "Om Raut",
+   "starring": "Prabhas; Saif Ali Khan; Kriti Sanon; Sunny Singh",
+   "status": "confirmed",
+   "evidence": "Ravi Shankar dubbed for Saif Ali Khan in the Telugu, Tamil and Kannada versions.",
+   "sources": "https://en.wikipedia.org/wiki/Adipurush"
+  },
+  {
+   "title": "Animal",
+   "year": "2023",
+   "original_language": "Hindi",
+   "director": "Sandeep Reddy Vanga",
+   "starring": "Ranbir Kapoor; Anil Kapoor; Bobby Deol; Rashmika Mandanna",
+   "status": "confirmed",
+   "evidence": "It was theatrically released on 1 December 2023 in standard and IMAX formats in Hindi with dubbed versions in Telugu, Tamil, Malayalam and Kannada languages.",
+   "sources": "https://en.wikipedia.org/wiki/Animal_(2023_Indian_film)"
+  },
+  {
+   "title": "Ganapath",
+   "year": "2023",
+   "original_language": "Hindi",
+   "director": "Vikas Bahl",
+   "starring": "Tiger Shroff; Amitabh Bachchan; Kriti Sanon; Elli AvrRam",
+   "status": "confirmed",
+   "evidence": "The film was initially supposed to release on 23 December 2022, coinciding with Christmas Eve, but was later postponed and was released theatrically on 20 October 2023, during Dussehra, in Hindi, along with the dubbed versions in Tamil, Telugu, Malayalam and Kannada languages.",
+   "sources": "https://en.wikipedia.org/wiki/Ganapath"
+  },
+  {
+   "title": "The Vaccine War",
+   "year": "2023",
+   "original_language": "Hindi",
+   "director": "Vivek Agnihotri",
+   "starring": "Nana Patekar; Anupam Kher; Pallavi Joshi; Raima Sen",
+   "status": "announced",
+   "evidence": "It is planned to be released in eleven Indian languages including Hindi, English, Bengali, Marathi, Telugu, Tamil, Kannada, Punjabi, Malayalam, Gujarati and Bhojpuri.",
+   "sources": "https://en.wikipedia.org/wiki/The_Vaccine_War"
+  },
+  {
+   "title": "Bhediya",
+   "year": "2022",
+   "original_language": "Hindi",
+   "director": "Amar Kaushik",
+   "starring": "Varun Dhawan; Kriti Sanon; Abhishek Banerjee; Deepak Dobriyal",
+   "status": "confirmed",
+   "evidence": "Six months after its theatrical release, the film began streaming on JioCinema from 26 May 2023 in Hindi and the dubbed versions of Bengali, Marathi, Tamil, Telugu, Kannada, and Malayalam languages.",
+   "sources": "https://en.wikipedia.org/wiki/Bhediya"
+  },
+  {
+   "title": "Brahmāstra: Part One – Shiva",
+   "year": "2022",
+   "original_language": "Hindi",
+   "director": "Ayan Mukerji",
+   "starring": "Amitabh Bachchan; Ranbir Kapoor; Alia Bhatt; Mouni Roy",
+   "status": "confirmed",
+   "evidence": "Released in Hindi, Tamil, Telugu, Malayalam and Kannada.",
+   "sources": "https://ca.news.yahoo.com/brahm-stra-part-one-shiva-112730563.html | https://en.wikipedia.org/wiki/Brahmāstra:_Part_One_–_Shiva | https://www.sacnilk.com/movie/Brahmastra"
+  },
+  {
+   "title": "Dangerous",
+   "year": "2022",
+   "original_language": "Hindi",
+   "director": "Ram Gopal Varma",
+   "starring": "Naina Ganguly; Apsara Rani; Rajpal Yadav",
+   "status": "confirmed",
+   "evidence": "It was released on 9 December 2022, and was dubbed into Telugu, Tamil, Kannada, Malayalam languages.",
+   "sources": "https://en.wikipedia.org/wiki/Dangerous_(2022_film)"
+  },
+  {
+   "title": "Ladki: Dragon Girl",
+   "year": "2022",
+   "original_language": "Hindi",
+   "director": "Ram Gopal Varma",
+   "starring": "Pooja Bhalekar; Miya Muqi; Rajpal Yadav; Abhimanyu Singh",
+   "status": "confirmed",
+   "evidence": "It was simultaneously dubbed and released in Hindi, Telugu, Tamil, Kannada, and Malayalam languages in the maximum number of theaters for an Indian film.",
+   "sources": "https://en.wikipedia.org/wiki/Ladki:_Dragon_Girl"
+  },
+  {
+   "title": "Liger",
+   "year": "2022",
+   "original_language": "Hindi",
+   "director": "Puri Jagannadh",
+   "starring": "Vijay Deverakonda; Ananya Panday; Mike Tyson; Ramya Krishnan",
+   "status": "confirmed",
+   "evidence": "Tiger was released on 25 August 2022 in Hindi and Telugu along with dubbed versions in Tamil, Malayalam and Kannada.",
+   "sources": "https://en.wikipedia.org/wiki/Liger_(film)"
+  },
+  {
+   "title": "The Kashmir Files",
+   "year": "2022",
+   "original_language": "Hindi",
+   "director": "Vivek Agnihotri",
+   "starring": "Mithun Chakraborty; Anupam Kher; Darshan Kumar; Pallavi Joshi",
+   "status": "confirmed",
+   "evidence": "The film was premiered for worldwide streaming on ZEE5 from 13 May 2022, in Hindi, Tamil, Telugu, Kannada and Indian Sign Language.",
+   "sources": "https://en.wikipedia.org/wiki/The_Kashmir_Files"
+  },
+  {
+   "title": "83",
+   "year": "2021",
+   "original_language": "Hindi",
+   "director": "Kabir Khan",
+   "starring": "Ranveer Singh; Deepika Padukone; Pankaj Tripathi; Jiiva",
+   "status": "confirmed",
+   "evidence": "The dubbed versions of the film were released over 367 screens in India, with the Telugu version played on 137 screens, Tamil version on 184 screens, Malayalam version on 13 screens and the Kannada version on 33 screens.",
+   "sources": "https://en.wikipedia.org/wiki/83_(film)"
+  },
+  {
+   "title": "Shakeela",
+   "year": "2020",
+   "original_language": "Hindi",
+   "director": "Indrajit Lankesh",
+   "starring": "Richa Chadda; Pankaj Tripathi; Rajeev Pillai",
+   "status": "confirmed",
+   "evidence": "The film released on 25 December 2020 (on Christmas) in four languages : Kannada, Hindi, Telugu, Tamil, Malayalam languages.",
+   "sources": "https://en.wikipedia.org/wiki/Shakeela_(film)"
+  },
+  {
+   "title": "72 Hoorain",
+   "year": "2019",
+   "original_language": "Hindi",
+   "director": "Sanjay Puran Singh Chauhan",
+   "starring": "Saru Maini; Aamir Bashir; Pavan Malhotra; Rasheed Naz",
+   "status": "confirmed",
+   "evidence": "72 Hoorain was released in English and 10 other Indian languages – Assamese, Bengali, Bhojpuri, Kannada, Kashmiri, Malayalam, Marathi, Punjabi, Tamil, and Telugu.",
+   "sources": "https://en.wikipedia.org/wiki/72_Hoorain"
+  },
+  {
+   "title": "Dabangg 3",
+   "year": "2019",
+   "original_language": "Hindi",
+   "director": "Prabhu Deva",
+   "starring": "Salman Khan; Sudeepa; Sonakshi Sinha; Saiee Manjrekar",
+   "status": "confirmed",
+   "evidence": "Dabangg 3 was theatrically released worldwide on 20 December 2019, on the Pre-Christmas weekend, in Hindi, and dubbed in Tamil, Telugu, and Kannada languages.",
+   "sources": "https://en.wikipedia.org/wiki/Dabangg_3"
+  },
+  {
+   "title": "Padmaavat",
+   "year": "2018",
+   "original_language": "Hindi",
+   "director": "Sanjay Leela Bhansali",
+   "starring": "Deepika Padukone; Ranveer Singh; Shahid Kapoor; Aditi Rao Hydari",
+   "status": "confirmed",
+   "evidence": "The film was dubbed and released in Tamil, Telugu and Kannada languages under the same title.",
+   "sources": "https://en.wikipedia.org/wiki/Padmaavat"
+  },
+  {
+   "title": "Do Anjaane",
+   "year": "1976",
+   "original_language": "Hindi",
+   "director": "Dulal Guha",
+   "starring": "Amitabh Bachchan; Rekha; Prem Chopra",
+   "status": "announced",
+   "evidence": "The Kannada version Aaseya Bale was released in 1987.",
+   "sources": "https://en.wikipedia.org/wiki/Do_Anjaane"
+  },
+  {
+   "title": "Maharagni: Queen of Queens",
+   "year": "",
+   "original_language": "Hindi",
+   "director": "Charan Tej Uppalapati",
+   "starring": "Kajol; Prabhu Deva; Naseeruddin Shah; Samyuktha",
+   "status": "announced",
+   "evidence": "Originally made in Hindi, the film will also be released in Telugu, Tamil, Kannada, and Malayalam.",
+   "sources": "https://en.wikipedia.org/wiki/Maharagni:_Queen_of_Queens"
+  },
+  {
+   "title": "Aadu 3",
+   "year": "2026",
+   "original_language": "Malayalam",
+   "director": "Midhun Manuel Thomas",
+   "starring": "Jayasurya; Saiju Kurup; Vinayakan; Sunny Wayne",
+   "status": "confirmed",
+   "evidence": "The film began streaming on the platform in Malayalam, Tamil, Kannada, Telugu and Hindi on 1 May 2026.",
+   "sources": "https://en.wikipedia.org/wiki/Aadu_3 | https://www.tataplaybinge.com/ott-buzz/latest-south-indian-movies-on-ott"
+  },
+  {
+   "title": "Balan: The Boy",
+   "year": "2026",
+   "original_language": "Malayalam",
+   "director": "Chidambaram S. Poduval",
+   "starring": "Adhisheshan K. R; Farzana Palathingal; Muhammad Zinaan; Tovino Thomas",
+   "status": "confirmed",
+   "evidence": "Apart from Malayalam, it was dubbed and released in Hindi, Telugu, Tamil and Kannada languages.",
+   "sources": "https://en.wikipedia.org/wiki/Balan:_The_Boy | https://www.sacnilk.com/movie/Balan_The_Boy_2026"
+  },
+  {
+   "title": "Bethlehem Kudumba Unit",
+   "year": "2026",
+   "original_language": "Malayalam",
+   "director": "Girish A. D",
+   "starring": "Mamitha Baiju; Nivin Pauly",
+   "status": "confirmed",
+   "evidence": "The film began streaming on JioHotstar from 2 October 2026 in Malayalam and dubbed versions of Tamil, Hindi, Telugu and Kannada languages.",
+   "sources": "https://en.wikipedia.org/wiki/Bethlehem_Kudumba_Unit"
+  },
+  {
+   "title": "Drishyam 3",
+   "year": "2026",
+   "original_language": "Malayalam",
+   "director": "Jeethu Joseph",
+   "starring": "Mohanlal; Meena; Ansiba Hassan; Esther Anil",
+   "status": "confirmed",
+   "evidence": "The film began streaming on the platform from 18 June 2026 in Malayalam and dubbed versions of Tamil, Telugu and Kannada languages.",
+   "sources": "https://en.wikipedia.org/wiki/Drishyam_3"
+  },
+  {
+   "title": "I'm Game",
+   "year": "2026",
+   "original_language": "Malayalam",
+   "director": "Nahas Hidhayath",
+   "starring": "Dulquer Salmaan; Antony Varghese; Mysskin; Kathir",
+   "status": "confirmed",
+   "evidence": "I'm Game was released Worldwide on 3 September 2026 in its original Malayalam language, also it was dubbed in Telugu, Kannada, Tamil and Hindi languages in standard, EPIQ and P[XL] formats.",
+   "sources": "https://en.wikipedia.org/wiki/I'm_Game_(film)"
+  },
+  {
+   "title": "Kattalan",
+   "year": "2026",
+   "original_language": "Malayalam",
+   "director": "Paul George",
+   "starring": "Antony Varghese; Sunil; Kabir Duhan Singh; Jagadish",
+   "status": "confirmed",
+   "evidence": "Kattalan was released on 28 May 2026 in its original Malayalam language alongside versions in the Tamil, Telugu, Kannada and Hindi languages in the standard, Dolby Cinema, IMAX, and EPIQ formats.",
+   "sources": "https://en.wikipedia.org/wiki/Kattalan | https://www.sacnilk.com/movie/Kattalan_2026"
+  },
+  {
+   "title": "Mollywood Times",
+   "year": "2026",
+   "original_language": "Malayalam",
+   "director": "Abhinav Sunder Nayak",
+   "starring": "Naslen",
+   "status": "confirmed",
+   "evidence": "Streaming on JioHotstar in Malayalam, Tamil, Telugu, Kannada and Hindi.",
+   "sources": "https://www.jiostar.com/?p=5232 | https://en.wikipedia.org/wiki/Mollywood_Times"
+  },
+  {
+   "title": "Pallichattambi",
+   "year": "2026",
+   "original_language": "Malayalam",
+   "director": "Dijo Jose Antony",
+   "starring": "Tovino Thomas; Kayadu Lohar",
+   "status": "confirmed",
+   "evidence": "The film was released worldwide on 15 April 2026 with dubbed versions in Tamil, Telugu, Hindi, and Kannada.",
+   "sources": "https://en.wikipedia.org/wiki/Pallichattambi"
+  },
+  {
+   "title": "Bha Bha Ba",
+   "year": "2025",
+   "original_language": "Malayalam",
+   "director": "Dhananjay Shankar",
+   "starring": "Dileep; Vineeth Sreenivasan; Dhyan Sreenivasan",
+   "status": "confirmed",
+   "evidence": "The film began streaming on the platform from 16 January 2026 in Malayalam, Tamil, Telugu and Kannada languages.",
+   "sources": "https://en.wikipedia.org/wiki/Bha_Bha_Ba"
+  },
+  {
+   "title": "Hridayapoorvam",
+   "year": "2025",
+   "original_language": "Malayalam",
+   "director": "Sathyan Anthikad",
+   "starring": "Mohanlal; Malavika Mohanan; Sangeeth Prathap; Sangita Madhavan Nair",
+   "status": "confirmed",
+   "evidence": "The film began streaming on the platform from 26 September 2025 in Malayalam and dubbed versions of Tamil, Hindi, Telugu and Kannada languages.",
+   "sources": "https://en.wikipedia.org/wiki/Hridayapoorvam | https://videos.filmibeat.com/malayalam/news/2025/hridayapoorvam-ott-release-when-where-to-watch-mohanlal-100-crore-earning-rom-com-481373.html"
+  },
+  {
+   "title": "Identity",
+   "year": "2025",
+   "original_language": "Malayalam",
+   "director": "Akhil Paul; Anas Khan",
+   "starring": "Tovino Thomas; Trisha Krishnan; Vinay Rai",
+   "status": "confirmed",
+   "evidence": "The digital streaming rights of the film were acquired by ZEE5, and it started streaming in Malayalam, Tamil, Kannada and Telugu from 31 January 2025.",
+   "sources": "https://en.wikipedia.org/wiki/Identity_(2025_film)"
+  },
+  {
+   "title": "L2: Empuraan",
+   "year": "2025",
+   "original_language": "Malayalam",
+   "director": "Prithviraj Sukumaran",
+   "starring": "Mohanlal; Prithviraj Sukumaran; Tovino Thomas; Abhimanyu Singh",
+   "status": "confirmed",
+   "evidence": "Unlike the first part, the film was released in Tamil, Telugu, Hindi, and Kannada besides its original language.",
+   "sources": "https://en.wikipedia.org/wiki/L2:_Empuraan | https://www.123telugu.com/?p=787689"
+  },
+  {
+   "title": "Lokah Chapter 1: Chandra",
+   "year": "2025",
+   "original_language": "Malayalam",
+   "director": "Dominic Arun",
+   "starring": "Kalyani Priyadarshan; Naslen; Sandy; Chandu Salim Kumar",
+   "status": "confirmed",
+   "evidence": "It was dubbed and released in Telugu, Hindi, Tamil and Kannada.",
+   "sources": "https://en.wikipedia.org/wiki/Lokah_Chapter_1:_Chandra | https://www.jiostar.com/?p=3925"
+  },
+  {
+   "title": "Maranamass",
+   "year": "2025",
+   "original_language": "Malayalam",
+   "director": "Sivaprasad",
+   "starring": "Basil Joseph; Anishma Anilkumar; Siju Sunny; Suresh Krishna",
+   "status": "announced",
+   "evidence": "The film will begin streaming on SonyLIV from 15 May 2025 in Malayalam and dubbed versions of Hindi, Tamil, Telugu and Kannada languages.",
+   "sources": "https://en.wikipedia.org/wiki/Maranamass"
+  },
+  {
+   "title": "Odum Kuthira Chaadum Kuthira",
+   "year": "2025",
+   "original_language": "Malayalam",
+   "director": "Althaf Salim",
+   "starring": "Fahadh Faasil; Kalyani Priyadarshan; Revathi Pillai",
+   "status": "confirmed",
+   "evidence": "Streaming on JioHotstar in Hindi, Tamil, Telugu and Kannada.",
+   "sources": "https://www.freepressjournal.in/entertainment/odum-kuthira-chaadum-kuthira-on-ott-where-to-watch-fahadh-faasils-latest-film | https://en.wikipedia.org/wiki/Odum_Kuthira_Chaadum_Kuthira"
+  },
+  {
+   "title": "Ronth",
+   "year": "2025",
+   "original_language": "Malayalam",
+   "director": "Shahi Kabir",
+   "starring": "Dileesh Pothan; Roshan Mathew",
+   "status": "confirmed",
+   "evidence": "The film digitally released on the streaming platform JioHotstar from 22 July 2025 in Malayalam, along with dubbed versions in Tamil, Telugu, Kannada, and Hindi.",
+   "sources": "https://en.wikipedia.org/wiki/Ronth"
+  },
+  {
+   "title": "Sarvam Maya",
+   "year": "2025",
+   "original_language": "Malayalam",
+   "director": "Akhil Sathyan",
+   "starring": "Nivin Pauly; Riya Shibu; Preity Mukhundhan; Aju Varghese",
+   "status": "confirmed",
+   "evidence": "Streaming on JioHotstar in Malayalam, Tamil, Telugu, Kannada and Hindi.",
+   "sources": "https://boxoffice.sacnilk.com/series/2847/season/1 | https://en.wikipedia.org/wiki/Sarvam_Maya"
+  },
+  {
+   "title": "Soothravakyam",
+   "year": "2025",
+   "original_language": "Malayalam",
+   "director": "Eugien Jos Chirammel",
+   "starring": "Shine Tom Chacko; Vincy Aloshious; Deepak Parambol; Srikanth Kandragula",
+   "status": "confirmed",
+   "evidence": "The streaming rights of this movie were acquired by Lionsgate Play on 21 August 2025, along with Tamil, Kannada and Hindi dubbed versions, making their Malayalam debut.",
+   "sources": "https://en.wikipedia.org/wiki/Soothravakyam"
+  },
+  {
+   "title": "Thudarum",
+   "year": "2025",
+   "original_language": "Malayalam",
+   "director": "Tharun Moorthy",
+   "starring": "Mohanlal; Shobana; Prakash Varma; Binu Pappu",
+   "status": "confirmed",
+   "evidence": "The film began streaming on JioHotstar from 30 May 2025 in Malayalam and dubbed versions of Tamil, Hindi, Telugu and Kannada languages.",
+   "sources": "https://en.wikipedia.org/wiki/Thudarum | https://thesouthfirst.com/entertainment/thudarum-on-ott-when-and-where-to-watch"
+  },
+  {
+   "title": "Abraham Ozler",
+   "year": "2024",
+   "original_language": "Malayalam",
+   "director": "Midhun Manuel Thomas",
+   "starring": "Jayaram; Mammootty; Anoop Menon; Anaswara Rajan",
+   "status": "confirmed",
+   "evidence": "Abraham Ozler was released in Disney+ Hotstar on 20 March 2024 and is available in Hindi, Tamil, Telugu and Kannada languages.",
+   "sources": "https://en.wikipedia.org/wiki/Abraham_Ozler"
+  },
+  {
+   "title": "Barroz 3D",
+   "year": "2024",
+   "original_language": "Malayalam",
+   "director": "Mohanlal; Infobox; decat = yes",
+   "starring": "Mohanlal; Maya Rao West",
+   "status": "confirmed",
+   "evidence": "The trailer for the Tamil-dubbed version was launched by actors Sivakarthikeyan and Vijay Sethupathi, and the Kannada and Telugu-dubbed versions by Rishab Shetty and Nani respectively, on 15 and 16 December.",
+   "sources": "https://en.wikipedia.org/wiki/Barroz_3D"
+  },
+  {
+   "title": "Bramayugam",
+   "year": "2024",
+   "original_language": "Malayalam",
+   "director": "Rahul Sadasivan",
+   "starring": "Mammootty; Arjun Ashokan; Sidharth Bharathan",
+   "status": "confirmed",
+   "evidence": "The dubbed versions of the film in Hindi, Tamil, Telugu, and Kannada was released on 23 February 2024.",
+   "sources": "https://en.wikipedia.org/wiki/Bramayugam"
+  },
+  {
+   "title": "Malaikottai Vaaliban",
+   "year": "2024",
+   "original_language": "Malayalam",
+   "director": "Lijo Jose Pellissery",
+   "starring": "Mohanlal; Sonalee Kulkarni; Hareesh Peradi; Danish Sait",
+   "status": "confirmed",
+   "evidence": "Sait himself dubbed his voice in Malayalam, Hindi, Kannada, and Tamil language versions of the film.",
+   "sources": "https://en.wikipedia.org/wiki/Malaikottai_Vaaliban"
+  },
+  {
+   "title": "Manjummel Boys",
+   "year": "2024",
+   "original_language": "Malayalam",
+   "director": "Chidambaram S Poduval; Chidambaram",
+   "starring": "Soubin Shahir; Sreenath Bhasi; Deepak Parambol; Balu Varghese",
+   "status": "confirmed",
+   "evidence": "The film began streaming on Disney+ Hotstar from 5 May 2024 in Malayalam and dubbed versions of Tamil, Telugu, Kannada and Hindi languages.",
+   "sources": "https://en.wikipedia.org/wiki/Manjummel_Boys | https://123telugu.com/mnews/blockbuster-manjummel-boys-is-now-streaming-on-this-ott-platform.html"
+  },
+  {
+   "title": "Marco",
+   "year": "2024",
+   "original_language": "Malayalam",
+   "director": "Haneef Adeni",
+   "starring": "Unni Mukundan; Siddique; Jagadish; Kabir Duhan Singh",
+   "status": "confirmed",
+   "evidence": "The Kannada-dubbed version released across Karnataka on 31 January 2025 and streams on SonyLIV in Kannada.",
+   "sources": "https://filmibeat.com/malayalam/news/2025/marco-starts-streaming-early-on-ott-where-to-watch-unni-mukundans-blockbuster-action-thriller-443583.html | https://en.wikipedia.org/wiki/Marco_(2024_film)"
+  },
+  {
+   "title": "Nadikar",
+   "year": "2024",
+   "original_language": "Malayalam",
+   "director": "Lal Jr",
+   "starring": "Tovino Thomas; Divya Pillai; Balu Varghese; Suresh Krishna",
+   "status": "announced",
+   "evidence": "After its theatrical release on 3 May 2024, Nadikar was initially reported to premiere on Netflix around 27 June 2024, in Malayalam, Tamil, Telugu, and Kannada languages.",
+   "sources": "https://en.wikipedia.org/wiki/Nadikar"
+  },
+  {
+   "title": "Vadakkan",
+   "year": "2024",
+   "original_language": "Malayalam",
+   "director": "Sajeed A",
+   "starring": "Kishore (actor; born 1974); Kishore; Shruthy Menon",
+   "status": "announced",
+   "evidence": "The digital streaming rights of Vadakkans Malayalam, English, Tamil, Kannada versions were acquired by Amazon Prime Video and Telugu and Tamil versions by Aha.",
+   "sources": "https://en.wikipedia.org/wiki/Vadakkan"
+  },
+  {
+   "title": "2018",
+   "year": "2023",
+   "original_language": "Malayalam",
+   "director": "Jude Anthany Joseph",
+   "starring": "Tovino Thomas; Kunchacko Boban; Asif Ali; Narain",
+   "status": "confirmed",
+   "evidence": "Apart from Malayalam, it was dubbed into Tamil, Kannada, Telugu and Hindi.",
+   "sources": "https://en.wikipedia.org/wiki/2018_(film)"
+  },
+  {
+   "title": "Dreadful Chapters",
+   "year": "2023",
+   "original_language": "Malayalam",
+   "director": "Nirmal Baby Varghese",
+   "starring": "Jeffin Joseph; Varun Ravindran; Arya Krishnan",
+   "status": "confirmed",
+   "evidence": "The film was released in Malayalam along with the dubbed versions in Tamil, Telugu, Hindi and Kannada languages.",
+   "sources": "https://en.wikipedia.org/wiki/Dreadful_Chapters"
+  },
+  {
+   "title": "Falimy",
+   "year": "2023",
+   "original_language": "Malayalam",
+   "director": "Nithish Sahadev",
+   "starring": "Basil Joseph; Jagadish; Sandeep Pradeep; Manju Pillai",
+   "status": "confirmed",
+   "evidence": "The release date was later postponed and the film began streaming on the platform on 18 December 2023 in Malayalam, Tamil, Kannada, Telugu, and Hindi.",
+   "sources": "https://en.wikipedia.org/wiki/Falimy"
+  },
+  {
+   "title": "Kaathal: The Core",
+   "year": "2023",
+   "original_language": "Malayalam",
+   "director": "Jeo Baby",
+   "starring": "Mammootty; Jyothika",
+   "status": "confirmed",
+   "evidence": "The digital rights of the film is acquired by Amazon Prime Video and released on 5 January 2024 in Malayalam, Hindi, Tamil, Telugu and Kannada languages.",
+   "sources": "https://en.wikipedia.org/wiki/Kaathal:_The_Core"
+  },
+  {
+   "title": "Kannur Squad",
+   "year": "2023",
+   "original_language": "Malayalam",
+   "director": "Roby Varghese Raj",
+   "starring": "Mammootty; Azees Nedumangad; Rony David Raj; Shabareesh Varma",
+   "status": "confirmed",
+   "evidence": "Started streaming on Disney+ Hotstar in Malayalam, Hindi, Tamil, Telugu and Kannada.",
+   "sources": "https://newsable.asianetnews.com/entertainment/mammootty-s-kannur-squad-starts-streaming-on-this-platform-rkn-s49e1h | https://en.wikipedia.org/wiki/Kannur_Squad"
+  },
+  {
+   "title": "King of Kotha",
+   "year": "2023",
+   "original_language": "Malayalam",
+   "director": "Abhilash Joshiy",
+   "starring": "Dulquer Salmaan; Shabeer Kallarakkal; Aishwarya Lakshmi; Prasanna",
+   "status": "confirmed",
+   "evidence": "The film was intended to be released in Malayalam, along with the dubbed versions in Tamil, Telugu, Hindi and Kannada.",
+   "sources": "https://en.wikipedia.org/wiki/King_of_Kotha"
+  },
+  {
+   "title": "Kirkkan",
+   "year": "2023",
+   "original_language": "Malayalam",
+   "director": "Josh",
+   "starring": "Salim Kumar; Vijayaraghavan; Kani Kusruti; Johny Antony",
+   "status": "confirmed",
+   "evidence": "Other than in Malayalam, it is released in 3 other languages; Tamil, Telugu, and Kannada.",
+   "sources": "https://en.wikipedia.org/wiki/Kirkkan"
+  },
+  {
+   "title": "Pulimada",
+   "year": "2023",
+   "original_language": "Malayalam",
+   "director": "A. K. Sajan",
+   "starring": "Joju George; Aishwarya Rajesh",
+   "status": "confirmed",
+   "evidence": "The digital distribution rights were sold to Netflix and streaming began on 23 November 2023 in Malayalam, Tamil, Telugu, Kannada and Hindi.",
+   "sources": "https://en.wikipedia.org/wiki/Pulimada"
+  },
+  {
+   "title": "RDX",
+   "year": "2023",
+   "original_language": "Malayalam",
+   "director": "Nahas Hidhayath",
+   "starring": "Shane Nigam; Antony Varghese; Neeraj Madhav",
+   "status": "confirmed",
+   "evidence": "The satellite rights of the film were sold to Asianet, while Netflix has acquired the post-theatrical digital rights and began streaming it on in Malayalam and in dubbed versions of Hindi, Kannada, Tamil and Telugu languages.",
+   "sources": "https://en.wikipedia.org/wiki/RDX_(film)"
+  },
+  {
+   "title": "Sesham Mike-il Fathima",
+   "year": "2023",
+   "original_language": "Malayalam",
+   "director": "Manu C. Kumar",
+   "starring": "Kalyani Priyadarshan",
+   "status": "confirmed",
+   "evidence": "The film began streaming on the platform on 15 December 2023 in Malayalam, Tamil, Kannada, Telugu, and Hindi.",
+   "sources": "https://en.wikipedia.org/wiki/Sesham_Mike-il_Fathima"
+  },
+  {
+   "title": "Valatty",
+   "year": "2023",
+   "original_language": "Malayalam",
+   "director": "Devan Jayakumar",
+   "starring": "Roshan Mathew; Sunny Wayne; Soubin Shahir; Vijay Babu (actor",
+   "status": "confirmed",
+   "evidence": "The Kannada, Tamil, Telugu, and Hindi versions were released on 28 July 2023.",
+   "sources": "https://en.wikipedia.org/wiki/Valatty"
+  },
+  {
+   "title": "1001 Nunakal",
+   "year": "2022",
+   "original_language": "Malayalam",
+   "director": "Thamar KV",
+   "starring": "Vishnu Agasthya; Remya Suresh; Zhinz Shan; Vidhya Vijaykumar",
+   "status": "confirmed",
+   "evidence": "Apart from Malayalam, it was released in Tamil, Kannada, Telugu, and Hindi.",
+   "sources": "https://en.wikipedia.org/wiki/1001_Nunakal"
+  },
+  {
+   "title": "Jana Gana Mana",
+   "year": "2022",
+   "original_language": "Malayalam",
+   "director": "Dijo Jose Antony",
+   "starring": "Prithviraj Sukumaran; Suraj Venjaramoodu; Pasupathi Raj; G. M. Sundar",
+   "status": "confirmed",
+   "evidence": "The film was released in Malayalam along with the dubbed version in Tamil, Telugu and Kannada.",
+   "sources": "https://en.wikipedia.org/wiki/Jana_Gana_Mana_(2022_film)"
+  },
+  {
+   "title": "Kaduva",
+   "year": "2022",
+   "original_language": "Malayalam",
+   "director": "Shaji Kailas",
+   "starring": "Prithviraj Sukumaran; Vivek Oberoi; Samyuktha",
+   "status": "confirmed",
+   "evidence": "Released in Malayalam, Tamil, Kannada, Telugu and Hindi.",
+   "sources": "https://keralakaumudi.com/web-news/en/2022/07/NMAN0346052/1.html | https://en.wikipedia.org/wiki/Kaduva"
+  },
+  {
+   "title": "Pathonpatham Noottandu",
+   "year": "2022",
+   "original_language": "Malayalam",
+   "director": "Vinayan",
+   "starring": "Siju Wilson; Kayadu Lohar",
+   "status": "announced",
+   "evidence": "Initially the film was scheduled theatrical release on 8 September 2022 in Malayalam and dubbed versions of Hindi, Tamil, Telugu and Kannada languages simultaneously.",
+   "sources": "https://en.wikipedia.org/wiki/Pathonpatham_Noottandu"
+  },
+  {
+   "title": "Peace",
+   "year": "2022",
+   "original_language": "Malayalam",
+   "director": "Sanfeer K",
+   "starring": "Joju George; Asha Sharath",
+   "status": "announced",
+   "evidence": "The Malayalam language version was released on 26 August, while Tamil, Telugu, Kannada and Hindi language versions are awaiting its release.",
+   "sources": "https://en.wikipedia.org/wiki/Peace_(2022_film)"
+  },
+  {
+   "title": "Puzhu",
+   "year": "2022",
+   "original_language": "Malayalam",
+   "director": "Ratheena PT",
+   "starring": "Mammootty; Appunni Sasi; Parvathy Thiruvothu; Parvathy",
+   "status": "confirmed",
+   "evidence": "Puzhu had its world premiere on SonyLIV on 12 May 2022 in Malayalam, Hindi, Kannada, Tamil and Telugu languages.",
+   "sources": "https://en.wikipedia.org/wiki/Puzhu"
+  },
+  {
+   "title": "Thallumaala",
+   "year": "2022",
+   "original_language": "Malayalam",
+   "director": "Khalid Rahman",
+   "starring": "Tovino Thomas; Kalyani Priyadarshan; Shine Tom Chacko; Lukman Avaran",
+   "status": "confirmed",
+   "evidence": "After the movie began streaming on Netflix, It has been reported that the word \"beef\" was completely cut from the Kannada version of Thallumaala.",
+   "sources": "https://en.wikipedia.org/wiki/Thallumaala"
+  },
+  {
+   "title": "Vaashi",
+   "year": "2022",
+   "original_language": "Malayalam",
+   "director": "Vishnu G Raghav",
+   "starring": "Tovino Thomas; Keerthy Suresh",
+   "status": "confirmed",
+   "evidence": "The film started streaming on Netflix from 17 July 2022 in Malayalam and dubbed versions of Tamil, Telugu and Kannada languages.",
+   "sources": "https://en.wikipedia.org/wiki/Vaashi_(2022_film)"
+  },
+  {
+   "title": "Vazhiye",
+   "year": "2022",
+   "original_language": "Malayalam",
+   "director": "Nirmal Baby Varghese",
+   "starring": "",
+   "status": "confirmed",
+   "evidence": "This version retained the original visuals of Vazhiye but was re-edited with Kannada dubbing, localized title cards, and minor post-production changes.",
+   "sources": "https://en.wikipedia.org/wiki/Vazhiye"
+  },
+  {
+   "title": "Kurup",
+   "year": "2021",
+   "original_language": "Malayalam",
+   "director": "Srinath Rajendran",
+   "starring": "Dulquer Salmaan; Indrajith Sukumaran; Sobhita Dhulipala; Shine Tom Chacko",
+   "status": "confirmed",
+   "evidence": "The movie was released in Malayalam along with dubbed versions in Tamil, Telugu, Hindi and Kannada.",
+   "sources": "https://en.wikipedia.org/wiki/Kurup_(film)"
+  },
+  {
+   "title": "Marakkar: Lion of the Arabian Sea",
+   "year": "2021",
+   "original_language": "Malayalam",
+   "director": "Priyadarshan",
+   "starring": "Mohanlal; Arjun Sarja; Prabhu; Suniel Shetty",
+   "status": "confirmed",
+   "evidence": "Besides the original Malayalam version, the film also has dubbed versions in Hindi, Tamil, Telugu, and Kannada.",
+   "sources": "https://en.wikipedia.org/wiki/Marakkar:_Lion_of_the_Arabian_Sea"
+  },
+  {
+   "title": "Minnal Murali",
+   "year": "2021",
+   "original_language": "Malayalam",
+   "director": "Basil Joseph",
+   "starring": "Tovino Thomas; Guru Somasundaram",
+   "status": "confirmed",
+   "evidence": "Streaming on Netflix in Hindi, Telugu, Kannada, Tamil and Malayalam.",
+   "sources": "https://www.thenewsminute.com/article/minnal-murali-netflixs-global-top-10-list-non-english-films-159278 | https://en.wikipedia.org/wiki/Minnal_Murali"
+  },
+  {
+   "title": "Muddy",
+   "year": "2021",
+   "original_language": "Malayalam",
+   "director": "Dr. Pragabhal",
+   "starring": "Yuvan Krishna; Ridhaan Krishna; Renji Panicker",
+   "status": "confirmed",
+   "evidence": "Muddy was released in five languages (Tamil, Telugu, Kannada, Hindi and English) in theatres on 10 December 2021.",
+   "sources": "https://en.wikipedia.org/wiki/Muddy_(film)"
+  },
+  {
+   "title": "Shylock",
+   "year": "2020",
+   "original_language": "Malayalam",
+   "director": "Ajai Vasudev",
+   "starring": "Mammootty; Rajkiran; Meena; Siddique",
+   "status": "confirmed",
+   "evidence": "The film was dubbed in Telugu, Hindi and Kannada and released with the same title.",
+   "sources": "https://en.wikipedia.org/wiki/Shylock_(2020_film)"
+  },
+  {
+   "title": "Oru Adaar Love",
+   "year": "2019",
+   "original_language": "Malayalam",
+   "director": "Omar Lulu",
+   "starring": "Roshan Abdul Rahoof; Priya Prakash Varrier; Siyadh Shajahan; Noorin Shereef",
+   "status": "confirmed",
+   "evidence": "It was dubbed and released in Tamil with the same title, in Kannada as Kirik Love Story, and in Telugu as Lover's Day.",
+   "sources": "https://en.wikipedia.org/wiki/Oru_Adaar_Love"
+  },
+  {
+   "title": "Masterpiece",
+   "year": "2017",
+   "original_language": "Malayalam",
+   "director": "Ajai Vasudev",
+   "starring": "Mammootty; Unni Mukundan; Kalabhavan Shajohn; Varalaxmi Sarathkumar",
+   "status": "confirmed",
+   "evidence": "The film also has a Kannada dubbed version under the title Professor.",
+   "sources": "https://en.wikipedia.org/wiki/Masterpiece_(2017_film)"
+  },
+  {
+   "title": "Puthan Panam",
+   "year": "2017",
+   "original_language": "Malayalam",
+   "director": "Ranjith",
+   "starring": "Mammootty; Siddique",
+   "status": "confirmed",
+   "evidence": "The film was dubbed in Tamil as Cash back and Kannada as Demonetization.",
+   "sources": "https://en.wikipedia.org/wiki/Puthan_Panam"
+  },
+  {
+   "title": "100 Days of Love",
+   "year": "2015",
+   "original_language": "Malayalam",
+   "director": "Jenuse Mohamed",
+   "starring": "Dulquer Salmaan; Nithya Menen; Sekhar Menon; Aju Varghese",
+   "status": "confirmed",
+   "evidence": "The film was dubbed in Marathi as Shambhar Divas Premache and released on B4U Marathi YouTube Channel, Kannada, Tamil, Bengali, Telugu and Hindi with the same name.",
+   "sources": "https://en.wikipedia.org/wiki/100_Days_of_Love"
+  },
+  {
+   "title": "Fireman",
+   "year": "2015",
+   "original_language": "Malayalam",
+   "director": "Deepu Karunakaran",
+   "starring": "Mammootty; Unni Mukundan; Salim Kumar; Nyla Usha",
+   "status": "confirmed",
+   "evidence": "The film also dubbed into Tamil and Kannada.",
+   "sources": "https://en.wikipedia.org/wiki/Fireman_(film)"
+  },
+  {
+   "title": "Swami Ayyappan",
+   "year": "2012",
+   "original_language": "Malayalam",
+   "director": "Chetan Sharma; Mahesh Vettiyar",
+   "starring": "",
+   "status": "announced",
+   "evidence": "The 90-minute film, produced through a collaboration of Toonz Animation India and Animagic Motion Pictures Production, was planned to be released in theatres in Malayalam alongside dubbed versions in Kannada, Tamil, and Telugu languages.",
+   "sources": "https://en.wikipedia.org/wiki/Swami_Ayyappan_(2012_film)"
+  },
+  {
+   "title": "Nirakazhcha",
+   "year": "2010",
+   "original_language": "Malayalam",
+   "director": "Anish J. Karrinad",
+   "starring": "Mamta Mohandas; Vincenzo Bocciarelli; Manoj K. Jayan",
+   "status": "announced",
+   "evidence": "The film is expected to have a global release and would reportedly be dubbed into Tamil, Hindi, Telugu, Kannada, Spanish, Russian, German, Arabic and Italian as well.",
+   "sources": "https://en.wikipedia.org/wiki/Nirakazhcha"
+  },
+  {
+   "title": "Pournami Raavil 3D",
+   "year": "1985",
+   "original_language": "Malayalam",
+   "director": "A. Vincent",
+   "starring": "Viji; Vijayendra Ghatge; Anuradha; Janardhanan",
+   "status": "confirmed",
+   "evidence": "The film was dubbed in Tamil as Kaattukulle Thiruvizha and in Kannada as Kaadinalli Jaatre.",
+   "sources": "https://en.wikipedia.org/wiki/Pournami_Raavil_3D"
+  },
+  {
+   "title": "Half",
+   "year": "",
+   "original_language": "Malayalam",
+   "director": "Samjad",
+   "starring": "Ranjith Sajeev; Aishwarya Raj; Abbas; Amala Paul",
+   "status": "announced",
+   "evidence": "Half is being planned to release in Malayalam, Tamil, Telugu, Hindi and Kannada languages.",
+   "sources": "https://en.wikipedia.org/wiki/Half_(film)"
+  },
+  {
+   "title": "Kathanar – The Wild Sorcerer",
+   "year": "",
+   "original_language": "Malayalam",
+   "director": "Rojin Thomas",
+   "starring": "Jayasurya; Anushka Shetty; Prabhu Deva; Sanoop Santhosh",
+   "status": "announced",
+   "evidence": "Alongside the original Malayalam version, the makers are planning to release the film in multiple dubbed languages, including Tamil, Telugu, Kannada, Bengali, Chinese, French, Korean, Italian, Russian, Indonesian, Japanese, German, Hindi and English.",
+   "sources": "https://en.wikipedia.org/wiki/Kathanar_–_The_Wild_Sorcerer"
+  },
+  {
+   "title": "Enna Vilai",
+   "year": "2026",
+   "original_language": "Tamil",
+   "director": "Sajeev Pazhoor",
+   "starring": "Karunas; Nimisha Sajayan; Vijayalakshmi Veeramani; Shashaa Shivakumar",
+   "status": "announced",
+   "evidence": "The film will begin streaming on Netflix from 15 October 2026 In Tamil, Telugu, Malayalam, Kannada, Hindi.",
+   "sources": "https://en.wikipedia.org/wiki/Enna_Vilai"
+  },
+  {
+   "title": "Jailer 2",
+   "year": "2026",
+   "original_language": "Tamil",
+   "director": "Nelson Dilipkumar",
+   "starring": "Rajinikanth; S. J. Suryah; Mithun Chakraborty; Suraj Venjaramoodu",
+   "status": "announced",
+   "evidence": "The film will begin streaming on the platform from 12 November 2026 in Tamil and dubbed versions of Telugu, Hindi, Malayalam and Kannada languages.",
+   "sources": "https://en.wikipedia.org/wiki/Jailer_2 | https://www.sacnilk.com/movie/Jailer_2_2026"
+  },
+  {
+   "title": "Jana Nayagan",
+   "year": "2026",
+   "original_language": "Tamil",
+   "director": "H. Vinoth",
+   "starring": "C. Joseph Vijay; Vijay; Bobby Deol; Pooja Hegde",
+   "status": "confirmed",
+   "evidence": "The film began streaming on ZEE5 from 21 August 2026 in Tamil and dubbed versions of Telugu, Kannada and Malayalam languages, thus replacing Amazon Prime Video.",
+   "sources": "https://en.wikipedia.org/wiki/Jana_Nayagan"
+  },
+  {
+   "title": "Karuppu",
+   "year": "2026",
+   "original_language": "Tamil",
+   "director": "RJ Balaji",
+   "starring": "Suriya; RJ Balaji; Trisha Krishnan; Trisha",
+   "status": "confirmed",
+   "evidence": "The film began streaming on Amazon Prime Video from 12 June 2026 in Tamil and dubbed versions of Telugu, Malayalam, Kannada and Hindi languages.",
+   "sources": "https://en.wikipedia.org/wiki/Karuppu_(film)"
+  },
+  {
+   "title": "Lucky the Superstar",
+   "year": "2026",
+   "original_language": "Tamil",
+   "director": "Uday Mahesh",
+   "starring": "G. V. Prakash Kumar; Anaswara Rajan; Meghna Sumesh",
+   "status": "confirmed",
+   "evidence": "The film was dubbed and released in Telugu, Hindi, Marathi, Malayalam, Kannada, and Bengali.",
+   "sources": "https://en.wikipedia.org/wiki/Lucky_the_Superstar"
+  },
+  {
+   "title": "Modha Rathri",
+   "year": "2026",
+   "original_language": "Tamil",
+   "director": "Raja Karuppasamy",
+   "starring": "Rishikanth; Anishma Anilkumar",
+   "status": "confirmed",
+   "evidence": "The post-theatrical digital streaming rights were acquired by Netflix.The film started streaming on Netflix from 18 September 2026 in Tamil, Telugu, Malayalam, Kannada and Hindi languages.",
+   "sources": "https://en.wikipedia.org/wiki/Modha_Rathri"
+  },
+  {
+   "title": "Mookuthi Amman 2",
+   "year": "2026",
+   "original_language": "Tamil",
+   "director": "Sundar C.",
+   "starring": "Nayanthara; Regena Cassandrra; Duniya Vijay; Urvashi",
+   "status": "confirmed",
+   "evidence": "Sacnilk languages: Tamil, Kannada, Malayalam, Telugu",
+   "sources": "https://www.sacnilk.com/movie/Mookuthi_Amman_2_2026 | https://en.wikipedia.org/wiki/Mookuthi_Amman_2"
+  },
+  {
+   "title": "Parasakthi",
+   "year": "2026",
+   "original_language": "Tamil",
+   "director": "Sudha Kongara",
+   "starring": "Sivakarthikeyan; Ravi Mohan; Atharvaa; Sreeleela",
+   "status": "confirmed",
+   "evidence": "On 30 January, both parties reached a mutual decision, wherein this film would keep its title as Parasakthi in Tamil and Telugu, while Shakthi Thirumagan would be titled Parashakthi in the dubbed Hindi, Kannada and Malayalam versions with a new title yet to be decided for the dubbed Telugu version.",
+   "sources": "https://en.wikipedia.org/wiki/Parasakthi_(2026_film) | https://cinejosh.com/news/1/125779/parasakthi-to-stream-in-telugu.html"
+  },
+  {
+   "title": "Sardar 2",
+   "year": "2026",
+   "original_language": "Tamil",
+   "director": "P. S. Mithran",
+   "starring": "Karthi; S. J. Suryah; Malavika Mohanan; Ashika Ranganath",
+   "status": "confirmed",
+   "evidence": "The film began streaming on Amazon Prime Video from 1 October 2026 in Tamil and dubbed versions of Telugu, Hindi, Malayalam and Kannada languages.",
+   "sources": "https://en.wikipedia.org/wiki/Sardar_2"
+  },
+  {
+   "title": "Thaai Kizhavi",
+   "year": "2026",
+   "original_language": "Tamil",
+   "director": "Sivakumar Murugesan",
+   "starring": "Radikaa Sarathkumar; Singampuli; Aruldoss; Bala Saravanan",
+   "status": "confirmed",
+   "evidence": "Streaming on JioHotstar in Kannada audio along with Tamil, Telugu, Malayalam and Hindi.",
+   "sources": "https://videos.filmibeat.com/top-listing/new-ott-releases-this-week-in-kannada-2026-prime-video-netflix-zee5-jiohotstar-sun-nxt-and-sonyliv-3-1088.html | https://en.wikipedia.org/wiki/Thaai_Kizhavi"
+  },
+  {
+   "title": "Vishwanath & Sons",
+   "year": "2026",
+   "original_language": "Tamil",
+   "director": "Venky Atluri",
+   "starring": "Suriya; Mamitha Baiju",
+   "status": "confirmed",
+   "evidence": "The film began streaming on Netflix from 11 September 2026 in Tamil, Telugu, Malayalam, Kannada and Hindi languages.",
+   "sources": "https://en.wikipedia.org/wiki/Vishwanath_&_Sons"
+  },
+  {
+   "title": "Aaryan",
+   "year": "2025",
+   "original_language": "Tamil",
+   "director": "Praveen K",
+   "starring": "Vishnu Vishal; Shraddha Srinath; Maanasa Choudhary; Selvaraghavan",
+   "status": "announced",
+   "evidence": "Apart from its original Tamil language, the film is also planned to be dubbed and released in Telugu, Malayalam, Kannada and Hindi languages.",
+   "sources": "https://en.wikipedia.org/wiki/Aaryan_(film)"
+  },
+  {
+   "title": "Coolie",
+   "year": "2025",
+   "original_language": "Tamil",
+   "director": "Lokesh Kanagaraj",
+   "starring": "Rajinikanth; Nagarjuna Akkineni; Nagarjuna; Soubin Shahir",
+   "status": "confirmed",
+   "evidence": "Apart from the original Tamil language, the film was also released with dubbed versions in the Telugu, Hindi and Kannada languages.",
+   "sources": "https://en.wikipedia.org/wiki/Coolie_(2025_film)"
+  },
+  {
+   "title": "DNA",
+   "year": "2025",
+   "original_language": "Tamil",
+   "director": "Nelson Venkatesan",
+   "starring": "Atharvaa; Nimisha Sajayan; Mohammed Zeeshan Ayyub",
+   "status": "confirmed",
+   "evidence": "Streaming on JioHotstar in Tamil, Telugu, Malayalam, Kannada and Hindi.",
+   "sources": "https://telanganatoday.com/monsoon-ott-binge-new-films-and-series-hit-major-platforms | https://en.wikipedia.org/wiki/DNA_(2025_film)"
+  },
+  {
+   "title": "Dude",
+   "year": "2025",
+   "original_language": "Tamil",
+   "director": "Keerthiswaran",
+   "starring": "Pradeep Ranganathan; Mamitha Baiju; R. Sarathkumar; Hridhu Haroon",
+   "status": "confirmed",
+   "evidence": "Streaming on Netflix with audio options including Kannada.",
+   "sources": "https://videos.filmibeat.com/top-listing/new-ott-releases-this-week-in-kannada-2026-prime-video-netflix-zee5-jiohotstar-sun-nxt-and-sonyliv-3-1088.html | https://en.wikipedia.org/wiki/Dude_(2025_film)"
+  },
+  {
+   "title": "Freedom",
+   "year": "2025",
+   "original_language": "Tamil",
+   "director": "Sathyasiva",
+   "starring": "M. Sasikumar; Lijomol Jose",
+   "status": "announced",
+   "evidence": "Apart from Tamil, dubbed versions in Telugu, Kannada, Malayalam and Hindi languages were planned for release.",
+   "sources": "https://en.wikipedia.org/wiki/Freedom_(2025_film)"
+  },
+  {
+   "title": "Good Bad Ugly",
+   "year": "2025",
+   "original_language": "Tamil",
+   "director": "Adhik Ravichandran",
+   "starring": "Ajith Kumar; Trisha Krishnan; Arjun Das",
+   "status": "confirmed",
+   "evidence": "The film began streaming there from 8 May 2025 in Tamil and dubbed versions in Telugu, Hindi, Kannada and Malayalam languages.",
+   "sources": "https://en.wikipedia.org/wiki/Good_Bad_Ugly"
+  },
+  {
+   "title": "Idli Kadai",
+   "year": "2025",
+   "original_language": "Tamil",
+   "director": "Dhanush",
+   "starring": "Dhanush; Arun Vijay; Sathyaraj; P. Samuthirakani",
+   "status": "confirmed",
+   "evidence": "Streaming on Netflix in Tamil, Telugu, Hindi, Kannada and Malayalam.",
+   "sources": "https://www.123telugu.com/?p=811371 | https://en.wikipedia.org/wiki/Idli_Kadai"
+  },
+  {
+   "title": "Kudumbasthan",
+   "year": "2025",
+   "original_language": "Tamil",
+   "director": "Rajeshwar Kalisamy",
+   "starring": "K. Manikandan; Saanve Megghana; Guru Somasundaram; Nivedita Rajappan",
+   "status": "confirmed",
+   "evidence": "The digital streaming rights were acquired by ZEE5, where it began streaming from 7 March 2025, streaming in Tamil, Telugu, Malayalam, Kannada, and Hindi.",
+   "sources": "https://en.wikipedia.org/wiki/Kudumbasthan | https://www.oneindia.com/entertainment/new-tamil-telugu-movies-on-ott-this-week-here-is-the-full-list-on-latest-releases-in-netflix-ama-4088011.html"
+  },
+  {
+   "title": "Maaman",
+   "year": "2025",
+   "original_language": "Tamil",
+   "director": "Prasanth Pandiyaraj",
+   "starring": "Soori; Rajkiran; Aishwarya Lekshmi; Swasika",
+   "status": "confirmed",
+   "evidence": "ZEE5 premiered the Tamil film in Telugu and Kannada.",
+   "sources": "https://telanganatoday.com/zee5-premieres-maaman-in-telugu-and-kannada | https://en.wikipedia.org/wiki/Maaman"
+  },
+  {
+   "title": "Maargan",
+   "year": "2025",
+   "original_language": "Tamil",
+   "director": "Leo John Paul",
+   "starring": "Vijay Antony; Ajay Dhishan",
+   "status": "confirmed",
+   "evidence": "Apart from Tamil, the film also released in Malayalam, Kannada, Hindi and Telugu languages.",
+   "sources": "https://en.wikipedia.org/wiki/Maargan"
+  },
+  {
+   "title": "Madharaasi",
+   "year": "2025",
+   "original_language": "Tamil",
+   "director": "A. R. Murugadoss",
+   "starring": "Sivakarthikeyan; Rukmini Vasanth; Vidyut Jammwal; Biju Menon",
+   "status": "confirmed",
+   "evidence": "Apart from the original Tamil language, it was also released in dubbed versions in Telugu, Kannada, Malayalam and Hindi languages, with the Hindi version titled Dil Madharaasi.",
+   "sources": "https://en.wikipedia.org/wiki/Madharaasi | https://www.digit.in/digit-binge/movies/madharasi-882294.html"
+  },
+  {
+   "title": "Mahasenha",
+   "year": "2025",
+   "original_language": "Tamil",
+   "director": "Dhinesh Kalaiselvan",
+   "starring": "Vimal; Yogi Babu; Srushti Dange; Kabir Duhan Singh",
+   "status": "announced",
+   "evidence": "Apart from the original Tamil language, the film is also planned to release in the dubbed versions of Kannada, Telugu, Malayalam and Hindi languages.",
+   "sources": "https://en.wikipedia.org/wiki/Mahasenha"
+  },
+  {
+   "title": "Retro",
+   "year": "2025",
+   "original_language": "Tamil",
+   "director": "Karthik Subbaraj",
+   "starring": "Suriya; Pooja Hegde",
+   "status": "confirmed",
+   "evidence": "The film began streaming on Netflix from 30 May 2025 in Tamil and dubbed versions of Hindi, Telugu, Kannada and Malayalam languages.",
+   "sources": "https://en.wikipedia.org/wiki/Retro_(film)"
+  },
+  {
+   "title": "Shakthi Thirumagan",
+   "year": "2025",
+   "original_language": "Tamil",
+   "director": "Arun Prabu",
+   "starring": "Vijay Antony; Kannan; Sunil Kirpalani; Krish Hassan",
+   "status": "confirmed",
+   "evidence": "On 30 January, Dawn Pictures and the makers of Shakthi Thirumagan arrived at a mutual decision, where Dawn Pictures' film would retain its title as Parasakthi in Tamil and Telugu while Shakthi Thirumagan would retain its title as Parashakthi for the dubbed Hindi, Kannada and Malayalam versions, with a new title yet to be decided for the Telugu version.",
+   "sources": "https://en.wikipedia.org/wiki/Shakthi_Thirumagan"
+  },
+  {
+   "title": "Stephen",
+   "year": "2025",
+   "original_language": "Tamil",
+   "director": "Mithun Balaji",
+   "starring": "Gomathi Shankar; Michael Thangadurai; Smruthi Venkat",
+   "status": "confirmed",
+   "evidence": "Stephen was premiered on Netflix on 5 December 2025 in Tamil, Telugu, Malayalam, Kannada and Hindi languages.",
+   "sources": "https://en.wikipedia.org/wiki/Stephen_(film)"
+  },
+  {
+   "title": "Test",
+   "year": "2025",
+   "original_language": "Tamil",
+   "director": "S. Sashikanth",
+   "starring": "R. Madhavan; Nayanthara; Siddharth; Meera Jasmine",
+   "status": "confirmed",
+   "evidence": "The film premiered on 4 April 2025, with dubbed versions in Hindi, Kannada, Malayalam and Telugu.",
+   "sources": "https://en.wikipedia.org/wiki/Test_(2025_film)"
+  },
+  {
+   "title": "Thalaivan Thalaivii",
+   "year": "2025",
+   "original_language": "Tamil",
+   "director": "Pandiraaj",
+   "starring": "Vijay Sethupathi; Nithya Menen",
+   "status": "confirmed",
+   "evidence": "The film began streaming on the platform from 22 August 2025 in Tamil and dubbed versions of Telugu, Hindi, Malayalam and Kannada languages.",
+   "sources": "https://en.wikipedia.org/wiki/Thalaivan_Thalaivii"
+  },
+  {
+   "title": "The Door",
+   "year": "2025",
+   "original_language": "Tamil",
+   "director": "Jaiiddev",
+   "starring": "Bhavana; Ganesh Venkatraman; Priya Venkat; Jayaprakash",
+   "status": "confirmed",
+   "evidence": "The Door released in theatres on 28 March 2025 in Tamil, along with its dubbed versions in Kannada, Malayalam, Hindi and Telugu languages.",
+   "sources": "https://en.wikipedia.org/wiki/The_Door_(2025_film)"
+  },
+  {
+   "title": "Theeyavar Kulai Nadunga",
+   "year": "2025",
+   "original_language": "Tamil",
+   "director": "Dinesh Lakshmanan",
+   "starring": "Arjun Sarja; Arjun; Aishwarya Rajesh; Abhirami Venkatachalam",
+   "status": "confirmed",
+   "evidence": "Theeyavar Kulai Nadunga released in theatres on 21 November 2025 in Tamil along with its dubbed versions in Telugu, Malayalam and Kannada languages.",
+   "sources": "https://en.wikipedia.org/wiki/Theeyavar_Kulai_Nadunga"
+  },
+  {
+   "title": "Thug Life",
+   "year": "2025",
+   "original_language": "Tamil",
+   "director": "Mani Ratnam",
+   "starring": "Kamal Haasan; Silambarasan; Trisha Krishnan; Aishwarya Lekshmi",
+   "status": "confirmed",
+   "evidence": "The film began streaming on Netflix from 3 July 2025 in Tamil and dubbed versions of Telugu, Kannada and Malayalam and Hindi languages.",
+   "sources": "https://en.wikipedia.org/wiki/Thug_Life_(2025_film)"
+  },
+  {
+   "title": "Veera Dheera Sooran",
+   "year": "2025",
+   "original_language": "Tamil",
+   "director": "S. U. Arun Kumar",
+   "starring": "Vikram; S. J. Suryah; Suraj Venjaramoodu; Dushara Vijayan",
+   "status": "confirmed",
+   "evidence": "The film began streaming on Amazon Prime Video from 24 April 2025 in Tamil and dubbed versions of Telugu, Hindi, Malayalam and Kannada languages.",
+   "sources": "https://en.wikipedia.org/wiki/Veera_Dheera_Sooran"
+  },
+  {
+   "title": "Amaran",
+   "year": "2024",
+   "original_language": "Tamil",
+   "director": "Rajkumar Periasamy",
+   "starring": "Sivakarthikeyan; Sai Pallavi",
+   "status": "confirmed",
+   "evidence": "Apart from Tamil, it was dubbed and released in the Telugu, Hindi, Malayalam and Kannada languages.",
+   "sources": "https://en.wikipedia.org/wiki/Amaran_(2024_film)"
+  },
+  {
+   "title": "Aranmanai 4",
+   "year": "2024",
+   "original_language": "Tamil",
+   "director": "Sundar C",
+   "starring": "Sundar C; Tamannaah Bhatia; Raashii Khanna",
+   "status": "confirmed",
+   "evidence": "Disney+ Hotstar acquired the digital rights to Aranmanai 4 in Tamil, Telugu, Malayalam, and Kannada, and it began streaming on the platform on 21 June 2024.",
+   "sources": "https://en.wikipedia.org/wiki/Aranmanai_4"
+  },
+  {
+   "title": "Captain Miller",
+   "year": "2024",
+   "original_language": "Tamil",
+   "director": "Arun Matheswaran",
+   "starring": "Dhanush; Shiva Rajkumar; Sundeep Kishan; Priyanka Mohan",
+   "status": "confirmed",
+   "evidence": "The film began streaming on Amazon Prime Video from 9 February 2024 in Tamil and dubbed versions of Telugu, Malayalam and Kannada languages.",
+   "sources": "https://en.wikipedia.org/wiki/Captain_Miller_(film)"
+  },
+  {
+   "title": "Kanguva",
+   "year": "2024",
+   "original_language": "Tamil",
+   "director": "Siva",
+   "starring": "Suriya; Bobby Deol; Disha Patani",
+   "status": "confirmed",
+   "evidence": "Sacnilk tracked the Kannada version's box office (₹0.15 crore net); it also streams in Kannada on Prime Video.",
+   "sources": "https://sacnilk.com/movie/Suriya_42_2023 | https://en.wikipedia.org/wiki/Kanguva"
+  },
+  {
+   "title": "Lubber Pandhu",
+   "year": "2024",
+   "original_language": "Tamil",
+   "director": "Tamizharasan Pachamuthu",
+   "starring": "Harish Kalyan; V R Dinesh; Dinesh; Swasika",
+   "status": "confirmed",
+   "evidence": "The film began streaming on Disney+ Hotstar from 31 October 2024 in Tamil, Telugu, Hindi, Kannada, and Malayalam languages.",
+   "sources": "https://en.wikipedia.org/wiki/Lubber_Pandhu"
+  },
+  {
+   "title": "Mazhai Pidikkatha Manithan",
+   "year": "2024",
+   "original_language": "Tamil",
+   "director": "S. D. Vijay Milton",
+   "starring": "Vijay Antony; Sathyaraj; R. Sarathkumar; Megha Akash",
+   "status": "confirmed",
+   "evidence": "In July 2022, actor Nakkhul was initially considered to dub for the Kannada actor Pruthvi Ambaar.",
+   "sources": "https://en.wikipedia.org/wiki/Mazhai_Pidikkatha_Manithan"
+  },
+  {
+   "title": "Raayan",
+   "year": "2024",
+   "original_language": "Tamil",
+   "director": "Dhanush",
+   "starring": "Dhanush; Dushara Vijayan; S. J. Suryah; Sundeep Kishan",
+   "status": "confirmed",
+   "evidence": "The film began streaming on Amazon Prime Video from 23 August 2024 in Tamil, alongside Telugu, Hindi, Malayalam and Kannada languages.",
+   "sources": "https://en.wikipedia.org/wiki/Raayan"
+  },
+  {
+   "title": "Rebel",
+   "year": "2024",
+   "original_language": "Tamil",
+   "director": "Nikesh RS",
+   "starring": "G. V. Prakash Kumar; Mamitha Baiju",
+   "status": "confirmed",
+   "evidence": "Kannada version released on Prime Video on April 12, 2024.",
+   "sources": "https://www.mysmartprice.com/gear/?p=318478 | https://en.wikipedia.org/wiki/Rebel_(2024_film)"
+  },
+  {
+   "title": "Thangalaan",
+   "year": "2024",
+   "original_language": "Tamil",
+   "director": "Pa. Ranjith",
+   "starring": "Vikram; Pasupathy; Parvathy Thiruvothu; Malavika Mohanan",
+   "status": "confirmed",
+   "evidence": "The film was released in Tamil, Hindi, Telugu, Kannada and Malayalam by KVN Productions in Karnataka.",
+   "sources": "https://en.wikipedia.org/wiki/Thangalaan"
+  },
+  {
+   "title": "The Greatest of All Time",
+   "year": "2024",
+   "original_language": "Tamil",
+   "director": "Venkat Prabhu",
+   "starring": "Vijay; Prashanth; Prabhu Deva; Mohan",
+   "status": "confirmed",
+   "evidence": "The film began streaming on Netflix from 3 October 2024 in Tamil, Telugu, Malayalam, Kannada and Hindi languages.",
+   "sources": "https://en.wikipedia.org/wiki/The_Greatest_of_All_Time"
+  },
+  {
+   "title": "Thiru.Manickam",
+   "year": "2024",
+   "original_language": "Tamil",
+   "director": "Nandha Periyasamy",
+   "starring": "Samuthirakani; Ananya; Bharathiraja",
+   "status": "confirmed",
+   "evidence": "The post-theatrical streaming rights of the film were bought by ZEE5 and it began streaming from 24 January 2025 in Tamil, Kannada, and Malayalam.",
+   "sources": "https://en.wikipedia.org/wiki/Thiru.Manickam"
+  },
+  {
+   "title": "Vaazhai",
+   "year": "2024",
+   "original_language": "Tamil",
+   "director": "Mari Selvaraj",
+   "starring": "Ponvel M; Raghul R; Kalaiyarasan; Nikhila Vimal",
+   "status": "confirmed",
+   "evidence": "The film began streaming on Disney+ Hotstar from 11 October 2024 in Tamil, alongside Hindi, Telugu, Malayalam, Kannada, Bengali, and Marathi languages.",
+   "sources": "https://en.wikipedia.org/wiki/Vaazhai"
+  },
+  {
+   "title": "Vettaiyan",
+   "year": "2024",
+   "original_language": "Tamil",
+   "director": "T. J. Gnanavel",
+   "starring": "Rajinikanth; Amitabh Bachchan; Fahadh Faasil; Rana Daggubati",
+   "status": "confirmed",
+   "evidence": "The film began streaming there from 8 November 2024 in the original Tamil version and dubbed versions in Telugu, Hindi, Malayalam and Kannada languages.",
+   "sources": "https://en.wikipedia.org/wiki/Vettaiyan"
+  },
+  {
+   "title": "August 16 1947",
+   "year": "2023",
+   "original_language": "Tamil",
+   "director": "N. S. Ponkumar",
+   "starring": "Gautham Ram Karthik; Revathy Sharma",
+   "status": "confirmed",
+   "evidence": "The film was released worldwide in theatres on 7 April 2023 in Tamil, Telugu, Kannada, Hindi, Malayalam and English languages.",
+   "sources": "https://en.wikipedia.org/wiki/August_16_1947"
+  },
+  {
+   "title": "Chithha",
+   "year": "2023",
+   "original_language": "Tamil",
+   "director": "S. U. Arun Kumar",
+   "starring": "Siddharth; Nimisha Sajayan; Anjali Nair (actress; born 1988)",
+   "status": "confirmed",
+   "evidence": "It was released in Telugu as Chinna, and in Kannada as Chikku.",
+   "sources": "https://en.wikipedia.org/wiki/Chithha"
+  },
+  {
+   "title": "DD Returns",
+   "year": "2023",
+   "original_language": "Tamil",
+   "director": "S. Prem Anand",
+   "starring": "Santhanam; Surbhi",
+   "status": "confirmed",
+   "evidence": "Revanza Global Ventures has sold the Telugu, Malayalam, and Kannada Dubbing Rights for the movie \"DD Returns\" to Zee Entertainment Enterprises Limited.",
+   "sources": "https://en.wikipedia.org/wiki/DD_Returns"
+  },
+  {
+   "title": "Jailer",
+   "year": "2023",
+   "original_language": "Tamil",
+   "director": "Nelson Dilipkumar",
+   "starring": "Rajinikanth; Ramya Krishnan; Vinayakan; Tamannaah Bhatia",
+   "status": "confirmed",
+   "evidence": "Streaming on Prime Video in Tamil, Telugu, Malayalam, Kannada and Hindi.",
+   "sources": "https://deccanchronicle.com/entertainment/kollywood/020923/jailer-will-stream-on-amazon-prime-video.html | https://en.wikipedia.org/wiki/Jailer_(2023_Tamil_film)"
+  },
+  {
+   "title": "Kattil",
+   "year": "2023",
+   "original_language": "Tamil",
+   "director": "Ganesh Babu; E. V. Ganesh Babu",
+   "starring": "E. V. Ganesh Babu; Srushti Dange; Semmalar Annam",
+   "status": "confirmed",
+   "evidence": "Following delays, the team prepared the film for release in 2023, and dubbed the film in Telugu and Kannada as Mancha.",
+   "sources": "https://en.wikipedia.org/wiki/Kattil"
+  },
+  {
+   "title": "Leo",
+   "year": "2023",
+   "original_language": "Tamil",
+   "director": "Lokesh Kanagaraj",
+   "starring": "Vijay; Sanjay Dutt; Arjun Sarja; Arjun",
+   "status": "confirmed",
+   "evidence": "Chinmayi dubbed for Trisha for the Tamil, Telugu and Kannada versions of the film.",
+   "sources": "https://en.wikipedia.org/wiki/Leo_(2023_Indian_film)"
+  },
+  {
+   "title": "Pichaikkaran 2",
+   "year": "2023",
+   "original_language": "Tamil",
+   "director": "Vijay Antony",
+   "starring": "Vijay Antony; Kavya Thapar",
+   "status": "confirmed",
+   "evidence": "Disney+ Hotstar premiered the film in Tamil, Telugu, Malayalam and Kannada.",
+   "sources": "https://www.thehansindia.com/cinema/tollywood/bichagadu-2-hits-ott-platform-803815 | https://en.wikipedia.org/wiki/Pichaikkaran_2"
+  },
+  {
+   "title": "Ponniyin Selvan: II",
+   "year": "2023",
+   "original_language": "Tamil",
+   "director": "Mani Ratnam",
+   "starring": "Vikram; Aishwarya Rai Bachchan; Ravi Mohan; Karthi",
+   "status": "confirmed",
+   "evidence": "The digital streaming rights for the film were purchased by Amazon Prime Video for and started streaming on the platform from 2 June 2023 in Tamil and dubbed versions of Telugu, Malayalam and Kannada languages.",
+   "sources": "https://en.wikipedia.org/wiki/Ponniyin_Selvan:_II"
+  },
+  {
+   "title": "Thunivu",
+   "year": "2023",
+   "original_language": "Tamil",
+   "director": "H. Vinoth",
+   "starring": "Ajith Kumar",
+   "status": "confirmed",
+   "evidence": "The film was premiered on Netflix from 8 February 2023, in addition to Tamil, it is also available in Telugu, Malayalam, Kannada, and Hindi.",
+   "sources": "https://en.wikipedia.org/wiki/Thunivu"
+  },
+  {
+   "title": "Varisu",
+   "year": "2023",
+   "original_language": "Tamil",
+   "director": "Vamshi Paidipally",
+   "starring": "Vijay; Rashmika Mandanna; R. Sarathkumar; Shaam",
+   "status": "confirmed",
+   "evidence": "The film premiered on Amazon Prime Video from 22 February 2023 in Tamil and dubbed versions of Telugu, Malayalam and Kannada languages.",
+   "sources": "https://en.wikipedia.org/wiki/Varisu"
+  },
+  {
+   "title": "Beast",
+   "year": "2022",
+   "original_language": "Tamil",
+   "director": "Nelson Dilipkumar",
+   "starring": "Vijay; Pooja Hegde",
+   "status": "confirmed",
+   "evidence": "Apart from Tamil, the film had dubbed versions in Hindi (titled Raw), Telugu, Malayalam and Kannada.",
+   "sources": "https://en.wikipedia.org/wiki/Beast_(2022_Indian_film)"
+  },
+  {
+   "title": "Etharkkum Thunindhavan",
+   "year": "2022",
+   "original_language": "Tamil",
+   "director": "Pandiraj",
+   "starring": "Suriya; Vinay Rai; Priyanka Mohan",
+   "status": "confirmed",
+   "evidence": "The film was released in Tamil along with dubbed versions in Telugu, Malayalam, Hindi, and Kannada.",
+   "sources": "https://en.wikipedia.org/wiki/Etharkkum_Thunindhavan"
+  },
+  {
+   "title": "Laththi",
+   "year": "2022",
+   "original_language": "Tamil",
+   "director": "A. Vinoth Kumar",
+   "starring": "Vishal; Prabhu; Ramana; Sunaina",
+   "status": "confirmed",
+   "evidence": "Released in Hindi, Telugu, Malayalam and Kannada alongside Tamil on 22 December 2022.",
+   "sources": "https://www.shethepeople.tv/shestars/december-third-week-theatre-releases | https://en.wikipedia.org/wiki/Laththi"
+  },
+  {
+   "title": "Love Today",
+   "year": "2022",
+   "original_language": "Tamil",
+   "director": "Pradeep Ranganathan",
+   "starring": "Pradeep Ranganathan; Ivana; Sathyaraj; Yogi Babu",
+   "status": "confirmed",
+   "evidence": "The film began streaming on Netflix from 2 December 2022 in Tamil Along with Dubbed Version In Telugu, Hindi, Malayalam and Kannada languages.",
+   "sources": "https://en.wikipedia.org/wiki/Love_Today_(2022_film)"
+  },
+  {
+   "title": "Ponniyin Selvan: I",
+   "year": "2022",
+   "original_language": "Tamil",
+   "director": "Mani Ratnam",
+   "starring": "Vikram; Aishwarya Rai Bachchan; Karthi; Ravi Mohan",
+   "status": "confirmed",
+   "evidence": "The film's teaser trailer was released on 8 July 2022 in Tamil and dubbed versions of Hindi, Telugu, Malayalam and Kannada languages.",
+   "sources": "https://en.wikipedia.org/wiki/Ponniyin_Selvan:_I"
+  },
+  {
+   "title": "Rocketry: The Nambi Effect",
+   "year": "2022",
+   "original_language": "Tamil",
+   "director": "R. Madhavan",
+   "starring": "R. Madhavan; Simran",
+   "status": "confirmed",
+   "evidence": "The Tamil, Telugu, Kannada and Malayalam versions stream on Prime Video.",
+   "sources": "https://www.udayavani.com/english-news/hindi-version-of-r-madhavans-rocketry-the-nambi-effect-drops-on-voot-select | https://en.wikipedia.org/wiki/Rocketry:_The_Nambi_Effect"
+  },
+  {
+   "title": "Valimai",
+   "year": "2022",
+   "original_language": "Tamil",
+   "director": "H. Vinoth",
+   "starring": "Ajith Kumar; Kartikeya Gummakonda; Karthikeya; Huma Qureshi",
+   "status": "announced",
+   "evidence": "Apart from Tamil, the film will be released in dubbed versions of Hindi, Kannada and Telugu languages along with the original version.",
+   "sources": "https://en.wikipedia.org/wiki/Valimai"
+  },
+  {
+   "title": "Veeramae Vaagai Soodum",
+   "year": "2022",
+   "original_language": "Tamil",
+   "director": "Thu Pa Saravanan",
+   "starring": "Vishal; Dimple Hayathi",
+   "status": "confirmed",
+   "evidence": "The film was dubbed in Hindi under the same title, in Telugu as Saamanyudu, and in Kannada as Obba.",
+   "sources": "https://en.wikipedia.org/wiki/Veeramae_Vaagai_Soodum"
+  },
+  {
+   "title": "Vikram",
+   "year": "2022",
+   "original_language": "Tamil",
+   "director": "Lokesh Kanagaraj",
+   "starring": "Kamal Haasan; Vijay Sethupathi; Fahadh Faasil",
+   "status": "confirmed",
+   "evidence": "Vikram was dubbed in Telugu, Kannada, Hindi and Malayalam under the title Vikram Hitlist.",
+   "sources": "https://en.wikipedia.org/wiki/Vikram_(2022_film)"
+  },
+  {
+   "title": "Jagame Thandhiram",
+   "year": "2021",
+   "original_language": "Tamil",
+   "director": "Karthik Subbaraj",
+   "starring": "Dhanush; James Cosmo; Joju George; Aishwarya Lekshmi",
+   "status": "confirmed",
+   "evidence": "Apart from being dubbed in Telugu (as Jagame Tantram), Malayalam, Kannada and Hindi languages, the film would be dubbed and released in 17 languages, and premiere in over 190 countries through Netflix.",
+   "sources": "https://en.wikipedia.org/wiki/Jagame_Thandhiram"
+  },
+  {
+   "title": "Jai Bhim",
+   "year": "2021",
+   "original_language": "Tamil",
+   "director": "T. J. Gnanavel",
+   "starring": "Suriya; Lijomol Jose; K. Manikandan; Manikandan",
+   "status": "confirmed",
+   "evidence": "The film was dubbed in Hindi, Telugu, Malayalam and Kannada.",
+   "sources": "https://en.wikipedia.org/wiki/Jai_Bhim_(film)"
+  },
+  {
+   "title": "Kodiyil Oruvan",
+   "year": "2021",
+   "original_language": "Tamil",
+   "director": "Ananda Krishnan",
+   "starring": "Vijay Antony; Aathmika",
+   "status": "confirmed",
+   "evidence": "The film was dubbed and released in Kannada, Telugu and Hindi versions under the title Vijaya Raghavan while the Malayalam dubbed version retained the same title as the original.",
+   "sources": "https://en.wikipedia.org/wiki/Kodiyil_Oruvan"
+  },
+  {
+   "title": "Master",
+   "year": "2021",
+   "original_language": "Tamil",
+   "director": "Lokesh Kanagaraj",
+   "starring": "Vijay; Vijay Sethupathi; Malavika Mohanan",
+   "status": "confirmed",
+   "evidence": "Additionally, dubbed versions of the film would also release simultaneously in Telugu, Kannada and Malayalam.",
+   "sources": "https://en.wikipedia.org/wiki/Master_(2021_film)"
+  },
+  {
+   "title": "Thalaivii",
+   "year": "2021",
+   "original_language": "Tamil",
+   "director": "A. L. Vijay",
+   "starring": "Kangana Ranaut; Arvind Swamy; Nassar; Raj Arjun",
+   "status": "confirmed",
+   "evidence": "Thalaivii after limited and single screen theatrical release in India, It was released on Netflix (Hindi) 2 weeks later and on Amazon Prime Video (Tamil, Telugu, Kannada, Malayalam) 4 weeks later with respect to the deals made by producers with OTT platforms.",
+   "sources": "https://en.wikipedia.org/wiki/Thalaivii"
+  },
+  {
+   "title": "Ka Pae Ranasingam",
+   "year": "2020",
+   "original_language": "Tamil",
+   "director": "P. Virumandi",
+   "starring": "Vijay Sethupathi; Aishwarya Rajesh",
+   "status": "confirmed",
+   "evidence": "It was released on 2 October 2020, coinciding with Gandhi Jayanti, and was dubbed and released in Malayalam, Telugu, Kannada and Hindi on 9 October 2020.",
+   "sources": "https://en.wikipedia.org/wiki/Ka_Pae_Ranasingam"
+  },
+  {
+   "title": "Soorarai Pottru",
+   "year": "2020",
+   "original_language": "Tamil",
+   "director": "Sudha Kongara",
+   "starring": "Suriya; Aparna Balamurali; Paresh Rawal",
+   "status": "confirmed",
+   "evidence": "Soorarai Pottru was released in Tamil, Telugu, Malayalam and Kannada languages; the Telugu version was titled Aakasam Nee Haddhu Ra (), and Satyadev provided dubbing for Suriya's character.",
+   "sources": "https://en.wikipedia.org/wiki/Soorarai_Pottru"
+  },
+  {
+   "title": "Bow Bow",
+   "year": "2019",
+   "original_language": "Tamil",
+   "director": "S. Pradeep Kilikar",
+   "starring": "Master Ahaan",
+   "status": "confirmed",
+   "evidence": "The film was also dubbed in Kannada in 2020.",
+   "sources": "https://en.wikipedia.org/wiki/Bow_Bow"
+  },
+  {
+   "title": "Kanchana 3",
+   "year": "2019",
+   "original_language": "Tamil",
+   "director": "Raghava Lawrence",
+   "starring": "Raghava Lawrence; Oviya Helen; Oviya; Vedhika",
+   "status": "confirmed",
+   "evidence": "The dubbed Kannada version titled with the same name, and was panned by critics.",
+   "sources": "https://en.wikipedia.org/wiki/Kanchana_3"
+  },
+  {
+   "title": "Mersal",
+   "year": "2017",
+   "original_language": "Tamil",
+   "director": "Atlee",
+   "starring": "Vijay; S. J. Suryah; Kajal Aggarwal; Samantha Ruth Prabhu",
+   "status": "confirmed",
+   "evidence": "The satellite rights of the Telugu, Kannada and the Malayalam dubbed versions were acquired by Star Maa, Udaya TV and Asianet respectively.",
+   "sources": "https://en.wikipedia.org/wiki/Mersal"
+  },
+  {
+   "title": "Vivegam",
+   "year": "2017",
+   "original_language": "Tamil",
+   "director": "Siva",
+   "starring": "Ajith Kumar; Vivek Oberoi; Kajal Aggarwal; Akshara Haasan",
+   "status": "confirmed",
+   "evidence": "The film was also released in Kannada as Commando in 2018.",
+   "sources": "https://en.wikipedia.org/wiki/Vivegam"
+  },
+  {
+   "title": "Ilamai Oonjal",
+   "year": "2016",
+   "original_language": "Tamil",
+   "director": "Mangai Harirajan",
+   "starring": "Namitha; Kiran Rathod; Meghna Naidu; Keerthi Chawla",
+   "status": "confirmed",
+   "evidence": "Only the Tamil and Kannada versions were released.",
+   "sources": "https://en.wikipedia.org/wiki/Ilamai_Oonjal"
+  },
+  {
+   "title": "Yennai Arindhaal",
+   "year": "2015",
+   "original_language": "Tamil",
+   "director": "Gautham Vasudev Menon",
+   "starring": "Ajith Kumar; Arun Vijay; Trisha Krishnan; Anushka Shetty",
+   "status": "confirmed",
+   "evidence": "The film was dubbed in Kannada as Sathyadev IPS and was released in 2017.",
+   "sources": "https://en.wikipedia.org/wiki/Yennai_Arindhaal"
+  },
+  {
+   "title": "Enthiran",
+   "year": "2010",
+   "original_language": "Tamil",
+   "director": "S. Shankar; Shankar",
+   "starring": "Rajinikanth; Aishwarya Rai Bachchan; Danny Denzongpa",
+   "status": "confirmed",
+   "evidence": "The film was dubbed and released in Hindi as Robot and in Telugu as Robo and later in Kannada as Bombat Robo.",
+   "sources": "https://en.wikipedia.org/wiki/Enthiran"
+  },
+  {
+   "title": "Naanum Oru Thozhilali",
+   "year": "1986",
+   "original_language": "Tamil",
+   "director": "C. V. Sridhar",
+   "starring": "Kamal Haasan; Ambika; Jaishankar",
+   "status": "confirmed",
+   "evidence": "The film was also dubbed in Kannada as Sooryodaya, but that did not have a theatrical release.",
+   "sources": "https://en.wikipedia.org/wiki/Naanum_Oru_Thozhilali"
+  },
+  {
+   "title": "Fauzi",
+   "year": "2027",
+   "original_language": "Telugu",
+   "director": "Hanu Raghavapudi",
+   "starring": "Prabhas; Imanvi Esmail; Anupam Kher; Sajjad Delafrooz",
+   "status": "announced",
+   "evidence": "Fauzi is scheduled to theatrical release on 19 March 2027 in original Telugu language, the film's was also release in Hindi, Tamil, Kannada, Malayalam and English languages.",
+   "sources": "https://en.wikipedia.org/wiki/Fauzi_(film)"
+  },
+  {
+   "title": "Varanasi",
+   "year": "2027",
+   "original_language": "Telugu",
+   "director": "S. S. Rajamouli",
+   "starring": "Mahesh Babu; Priyanka Chopra; Prithviraj Sukumaran",
+   "status": "announced",
+   "evidence": "Shot in Telugu, it will also be released with dubbed versions in the Hindi, Tamil, Malayalam, and Kannada languages.",
+   "sources": "https://en.wikipedia.org/wiki/Varanasi_(film)"
+  },
+  {
+   "title": "418",
+   "year": "2026",
+   "original_language": "Telugu",
+   "director": "Kirtan Nadagouda",
+   "starring": "Chaithra J. Achar; Ramesh Indira; Surya Raj Veerabathini; Charan Lakkaraju",
+   "status": "announced",
+   "evidence": "In 2 October 2026, the makers locked 23 October 2026 for the film's worldwide theatrical release in Telugu, Kannada, Tamil, and Hindi, coinciding with the Dasara festive window.",
+   "sources": "https://en.wikipedia.org/wiki/418_(film)"
+  },
+  {
+   "title": "Aakasamlo Oka Tara",
+   "year": "2026",
+   "original_language": "Telugu",
+   "director": "Pavan Sadineni",
+   "starring": "Dulquer Salmaan; Satvika Veeravalli",
+   "status": "announced",
+   "evidence": "The film is set for release in Telugu, Malayalam, Tamil, Kannada and Hindi.",
+   "sources": "https://en.wikipedia.org/wiki/Aakasamlo_Oka_Tara"
+  },
+  {
+   "title": "Bhartha Mahasayulaku Wignyapthi",
+   "year": "2026",
+   "original_language": "Telugu",
+   "director": "Kishore Tirumala",
+   "starring": "Ravi Teja; Ashika Ranganath; Dimple Hayathi",
+   "status": "confirmed",
+   "evidence": "The remixed version of the song \"Elluvachi Godaramma\" is used in the end credits of the film's Tamil, Kannada, and Malayalam dubbed versions.",
+   "sources": "https://en.wikipedia.org/wiki/Bhartha_Mahasayulaku_Wignyapthi | https://www.123telugu.com/?p=827919"
+  },
+  {
+   "title": "Dacoit: A Love Story",
+   "year": "2026",
+   "original_language": "Telugu",
+   "director": "Shaneil Deo",
+   "starring": "Adivi Sesh; Mrunal Thakur; Anurag Kashyap",
+   "status": "confirmed",
+   "evidence": "The film began streaming on the platform from 8 May 2026 in Telugu and dubbed versions of Tamil, Malayalam and Kannada languages.",
+   "sources": "https://en.wikipedia.org/wiki/Dacoit:_A_Love_Story"
+  },
+  {
+   "title": "Funky",
+   "year": "2026",
+   "original_language": "Telugu",
+   "director": "K. V. Anudeep",
+   "starring": "Vishwak Sen; Kayadu Lohar",
+   "status": "confirmed",
+   "evidence": "Funky was released on Netflix on 13 March 2026 with its original Telugu version, along with dubbed versions in Tamil, Kannada, Malayalam, and the Hindi version, titled Mazzaq.",
+   "sources": "https://en.wikipedia.org/wiki/Funky_(film)"
+  },
+  {
+   "title": "Irumudi",
+   "year": "2026",
+   "original_language": "Telugu",
+   "director": "Shiva Nirvana",
+   "starring": "Ravi Teja; Priya Bhavani Shankar; P. Sai Kumar; Sai Kumar",
+   "status": "confirmed",
+   "evidence": "The film began streaming on Netflix from 18 September 2026 in Telugu, Tamil, Malayalam, Kannada and Hindi languages.",
+   "sources": "https://en.wikipedia.org/wiki/Irumudi"
+  },
+  {
+   "title": "Korean Kanakaraju",
+   "year": "2026",
+   "original_language": "Telugu",
+   "director": "Merlapaka Gandhi",
+   "starring": "Varun Tej; Ritika Nayak; Satya",
+   "status": "confirmed",
+   "evidence": "Streaming on Netflix from September 4, 2026 in Telugu, Hindi, Tamil, Kannada and Malayalam.",
+   "sources": "https://bingebaaz.com/2026/09/01/korean-kanakaraju-ott-release-date-netflix/ | https://en.wikipedia.org/wiki/Korean_Kanakaraju"
+  },
+  {
+   "title": "Maa Inti Bangaaram",
+   "year": "2026",
+   "original_language": "Telugu",
+   "director": "B. V. Nandini Reddy",
+   "starring": "Samantha; Gulshan Devaiah; Diganth Manchale",
+   "status": "confirmed",
+   "evidence": "The post-theatrical digital streaming rights were acquired by JioHotstar and began streaming from 17 July 2026 in Telugu with dubbed version of Tamil, Malayalam, Kannada.",
+   "sources": "https://en.wikipedia.org/wiki/Maa_Inti_Bangaaram"
+  },
+  {
+   "title": "Nagabandham: The Secret Treasure",
+   "year": "2026",
+   "original_language": "Telugu",
+   "director": "Abhishek Nama",
+   "starring": "Virat Karrna; Nabha Natesh; Iswarya Menon; Jagapathi Babu",
+   "status": "confirmed",
+   "evidence": "In dubbed versions of Tamil, Malayalam and Kannada.",
+   "sources": "https://en.wikipedia.org/wiki/Nagabandham:_The_Secret_Treasure | https://www.sacnilk.com/movie/Nagabandham__The_Secret_Treasure_2026"
+  },
+  {
+   "title": "Nari Nari Naduma Murari",
+   "year": "2026",
+   "original_language": "Telugu",
+   "director": "Ram Abbaraju",
+   "starring": "Sharwanand; Samyuktha; Sakshi Vaidya",
+   "status": "confirmed",
+   "evidence": "Streaming on Prime Video in Telugu with dubbed versions in Hindi, Tamil, Kannada and Malayalam.",
+   "sources": "https://telugucinema.com/news/nari-nari-naduma-murari-ott-release-prime-video/amp | https://en.wikipedia.org/wiki/Nari_Nari_Naduma_Murari_(2026_film)"
+  },
+  {
+   "title": "Peddi",
+   "year": "2026",
+   "original_language": "Telugu",
+   "director": "Bucchi Babu",
+   "starring": "Ram Charan; Shiva Rajkumar; Janhvi Kapoor; Jagapathi Babu",
+   "status": "confirmed",
+   "evidence": "Streaming on Netflix since 9 July 2026 in Telugu, Tamil, Kannada and Malayalam.",
+   "sources": "https://www.sacnilk.com/movie/peddi_2026 | https://en.wikipedia.org/wiki/Peddi"
+  },
+  {
+   "title": "Ranabaali",
+   "year": "2026",
+   "original_language": "Telugu",
+   "director": "Rahul Sankrityan",
+   "starring": "Vijay Deverakonda; Rashmika Mandanna; Arnold Vosloo",
+   "status": "confirmed",
+   "evidence": "Ranabaali was released on 16 October 2026; in addition to the Telugu version, it was also issued with dubbed versions in Hindi, Tamil, Kannada and Malayalam languages.",
+   "sources": "https://en.wikipedia.org/wiki/Ranabaali"
+  },
+  {
+   "title": "Seetha Payanam",
+   "year": "2026",
+   "original_language": "Telugu",
+   "director": "Arjun Sarja; Arjun",
+   "starring": "Niranjan Sudhindra; Aishwarya Arjun",
+   "status": "confirmed",
+   "evidence": "The film was also dubbed in Kannada, Tamil, and Malayalam with the former being titled Seetha Payana and the latter two having the same title, respectively.",
+   "sources": "https://en.wikipedia.org/wiki/Seetha_Payanam"
+  },
+  {
+   "title": "The Paradise",
+   "year": "2026",
+   "original_language": "Telugu",
+   "director": "Srikanth Odela",
+   "starring": "Nani; Mohan Babu; Kayadu Lohar; Sonali Kulkarni",
+   "status": "confirmed",
+   "evidence": "The film began streaming on Netflix from 22 October 2026 in Telugu and dubbed versions of Tamil, Hindi, Kannada and Malayalam languages.",
+   "sources": "https://en.wikipedia.org/wiki/The_Paradise_(film)"
+  },
+  {
+   "title": "The RajaSaab",
+   "year": "2026",
+   "original_language": "Telugu",
+   "director": "Maruthi",
+   "starring": "Prabhas; Sanjay Dutt; Nidhhi Agerwal; Malavika Mohanan",
+   "status": "confirmed",
+   "evidence": "The film was released worldwide on 9 January 2026, coinciding with Sankranthi in Telugu alongside dubbed versions of Hindi, Tamil, Kannada and Malayalam languages.",
+   "sources": "https://en.wikipedia.org/wiki/The_RajaSaab | https://videos.filmibeat.com/top-listing/new-ott-releases-this-week-in-kannada-2026-prime-video-netflix-zee5-jiohotstar-sun-nxt-and-sonyliv-3-1088.html | https://www.sacnilk.com/movie/The_Raja_Saab_2024"
+  },
+  {
+   "title": "Ustaad Bhagat Singh",
+   "year": "2026",
+   "original_language": "Telugu",
+   "director": "Harish Shankar",
+   "starring": "Pawan Kalyan; Raashii Khanna; Sreeleela; R. Parthiban",
+   "status": "confirmed",
+   "evidence": "The film began streaming on Netflix from 16 April 2026 in Telugu along with dubbed versions of Hindi, Tamil, Kannada, and Malayalam languages.",
+   "sources": "https://en.wikipedia.org/wiki/Ustaad_Bhagat_Singh"
+  },
+  {
+   "title": "8 Vasantalu",
+   "year": "2025",
+   "original_language": "Telugu",
+   "director": "Phanindra Narsetti",
+   "starring": "Ananthika Sanilkumar; Hanu Reddy; Raviteja Duggirala; Kanna Pasunoori",
+   "status": "confirmed",
+   "evidence": "Streaming on Netflix in Telugu, Tamil, Malayalam and Kannada.",
+   "sources": "https://telanganatoday.com/blockbusters-misses-big-telugu-ott-premieres-to-watch-this-july | https://en.wikipedia.org/wiki/8_Vasantalu"
+  },
+  {
+   "title": "Akhanda 2: Thaandavam",
+   "year": "2025",
+   "original_language": "Telugu",
+   "director": "Boyapati Srinu",
+   "starring": "Nandamuri Balakrishna; Aadhi Pinisetty; Samyuktha; Harshaali Malhotra",
+   "status": "confirmed",
+   "evidence": "The film began streaming on Netflix from 9 January 2026 in Telugu and dubbed versions of Hindi, Tamil, Kannada and Malayalam languages.",
+   "sources": "https://en.wikipedia.org/wiki/Akhanda_2:_Thaandavam | https://www.moviecrow.com/News/36076/ott-this-week-mask-angammal-akhanda-2"
+  },
+  {
+   "title": "Baahubali: The Epic",
+   "year": "2025",
+   "original_language": "Telugu",
+   "director": "S. S. Rajamouli",
+   "starring": "Prabhas; Rana Daggubati; Anushka Shetty; Tamannaah Bhatia",
+   "status": "confirmed",
+   "evidence": "It was released in Telugu, Hindi, Tamil, Kannada and Malayalam languages.",
+   "sources": "https://en.wikipedia.org/wiki/Baahubali:_The_Epic"
+  },
+  {
+   "title": "Daaku Maharaaj",
+   "year": "2025",
+   "original_language": "Telugu",
+   "director": "Bobby Kolli",
+   "starring": "Nandamuri Balakrishna; Bobby Deol; Shraddha Srinath; Pragya Jaiswal",
+   "status": "confirmed",
+   "evidence": "The film began streaming on Netflix from 21 February 2025 in Telugu and dubbed versions in Tamil, Kannada, Malayalam and Hindi.",
+   "sources": "https://en.wikipedia.org/wiki/Daaku_Maharaaj"
+  },
+  {
+   "title": "Game Changer",
+   "year": "2025",
+   "original_language": "Telugu",
+   "director": "S. Shankar; Shankar",
+   "starring": "Ram Charan; Kiara Advani; Anjali; S. J. Suryah",
+   "status": "confirmed",
+   "evidence": "The film began streaming on Amazon Prime Video from 7 February 2025 in Telugu and dubbed versions of Tamil, Malayalam and Kannada languages.",
+   "sources": "https://en.wikipedia.org/wiki/Game_Changer_(film)"
+  },
+  {
+   "title": "Ghaati",
+   "year": "2025",
+   "original_language": "Telugu",
+   "director": "Krish Jagarlamudi",
+   "starring": "Vikram Prabhu; Anushka Shetty",
+   "status": "confirmed",
+   "evidence": "Streaming on Amazon Prime Video in Kannada from September 26, 2025.",
+   "sources": "https://videos.filmibeat.com/top-listing/new-ott-releases-this-week-in-kannada-2026-prime-video-netflix-zee5-jiohotstar-sun-nxt-and-sonyliv-3-1088.html | https://en.wikipedia.org/wiki/Ghaati"
+  },
+  {
+   "title": "Hari Hara Veera Mallu",
+   "year": "2025",
+   "original_language": "Telugu",
+   "director": "A. M. Jyothi Krishna; Krish Jagarlamudi",
+   "starring": "Pawan Kalyan; Nidhhi Agerwal; Bobby Deol",
+   "status": "confirmed",
+   "evidence": "It was released in original Telugu alongside dubbed versions of Hindi, Tamil, Kannada and Malayalam languages.",
+   "sources": "https://en.wikipedia.org/wiki/Hari_Hara_Veera_Mallu"
+  },
+  {
+   "title": "HIT: The Third Case",
+   "year": "2025",
+   "original_language": "Telugu",
+   "director": "Sailesh Kolanu",
+   "starring": "Nani; Srinidhi Shetty",
+   "status": "confirmed",
+   "evidence": "The film began streaming on the platform from 29 May 2025 in Telugu and dubbed versions of Hindi, Tamil, Kannada and Malayalam languages.",
+   "sources": "https://en.wikipedia.org/wiki/HIT:_The_Third_Case"
+  },
+  {
+   "title": "Kannappa",
+   "year": "2025",
+   "original_language": "Telugu",
+   "director": "Mukesh Kumar Singh",
+   "starring": "Mohanlal; Prabhas; Akshay Kumar; Kajal Aggarwal",
+   "status": "confirmed",
+   "evidence": "Streaming on Prime Video since 4 September 2025 in Telugu with Tamil, Kannada and Malayalam dubs.",
+   "sources": "https://videos.filmibeat.com/telugu/news/2025/kannappa-now-streaming-on-ott-heres-where-to-watch-vishnu-manchu-movie-online-477765.html | https://en.wikipedia.org/wiki/Kannappa_(film)"
+  },
+  {
+   "title": "Kingdom",
+   "year": "2025",
+   "original_language": "Telugu",
+   "director": "Gowtam Tinnanuri",
+   "starring": "Vijay Deverakonda; Satyadev; Bhagyashri Borse",
+   "status": "confirmed",
+   "evidence": "The film began streaming on the platform from 27 August 2025 in Telugu and dubbed versions of Hindi, Tamil, Kannada and Malayalam languages.",
+   "sources": "https://en.wikipedia.org/wiki/Kingdom_(2025_film)"
+  },
+  {
+   "title": "Kuberaa",
+   "year": "2025",
+   "original_language": "Telugu",
+   "director": "Sekhar Kammula",
+   "starring": "Dhanush; Nagarjuna; Rashmika Mandanna; Jim Sarbh",
+   "status": "confirmed",
+   "evidence": "The post-theatrical streaming rights were acquired by Amazon Prime Video, where it began streaming on 18 July 2025 in Tamil, Telugu, Hindi, Malayalam and Kannada.",
+   "sources": "https://en.wikipedia.org/wiki/Kuberaa"
+  },
+  {
+   "title": "Mass Jathara",
+   "year": "2025",
+   "original_language": "Telugu",
+   "director": "Bhanu Bogavarapu",
+   "starring": "Ravi Teja; Sreeleela; Naveen Chandra",
+   "status": "confirmed",
+   "evidence": "The film was released for streaming on 28 November 2025 in Telugu, Tamil, Kannada, and Malayalam.",
+   "sources": "https://en.wikipedia.org/wiki/Mass_Jathara"
+  },
+  {
+   "title": "Mirai",
+   "year": "2025",
+   "original_language": "Telugu",
+   "director": "Karthik Gattamneni",
+   "starring": "Teja Sajja; Manchu Manoj; Jagapathi Babu; Jayaram",
+   "status": "confirmed",
+   "evidence": "The film began streaming on JioHotstar from 10 October 2025 in Telugu and dubbed versions of Tamil, Kannada and Malayalam languages.",
+   "sources": "https://en.wikipedia.org/wiki/Mirai_(2025_film) | https://www.123telugu.com/mnews/ott-jio-hotstar-begins-streaming-blockbuster-mirai-but-there-is-a-twist-prp.html?amp=1"
+  },
+  {
+   "title": "Mowgli",
+   "year": "2025",
+   "original_language": "Telugu",
+   "director": "Sandeep Raj",
+   "starring": "Roshan Kanakala; Sakkshi Mhadolkar; Bandi Saroj Kumar",
+   "status": "confirmed",
+   "evidence": "Now available on Amazon Prime Video in Tamil, Kannada and Malayalam as well.",
+   "sources": "https://www.123telugu.com/mnews/ott-mowgli-2025-goes-multilingual-now-streaming-in-3-more-languages-hk.html?amp=1 | https://en.wikipedia.org/wiki/Mowgli_(2025_film)"
+  },
+  {
+   "title": "On the Road",
+   "year": "2025",
+   "original_language": "Telugu",
+   "director": "Surya Lakkoju",
+   "starring": "Raghav Tiwari; Swati Mehra; Karn Shastri; Ravi Singh",
+   "status": "announced",
+   "evidence": "The film will be released in multiple Indian languages including Telugu, Hindi, Tamil, Kannada, and Malayalam.",
+   "sources": "https://en.wikipedia.org/wiki/On_the_Road_(2025_Indian_film)"
+  },
+  {
+   "title": "Sundarakanda",
+   "year": "2025",
+   "original_language": "Telugu",
+   "director": "Venkatesh Nimmalapudi",
+   "starring": "Nara Rohith; Sridevi Vijaykumar; Virti Vaghani",
+   "status": "confirmed",
+   "evidence": "Streaming on JioHotstar in Telugu, Hindi, Tamil, Kannada and Malayalam.",
+   "sources": "https://www.123telugu.com/mnews/ott-releases-this-week-sundarakanda-bring-her-back-hridayapoorvam-more-on-netflix-jio-hotstar-prime-video-and-others-hk.html | https://en.wikipedia.org/wiki/Sundarakanda_(2025_film)"
+  },
+  {
+   "title": "Telusu Kada",
+   "year": "2025",
+   "original_language": "Telugu",
+   "director": "Neeraja Kona",
+   "starring": "Siddhu Jonnalagadda; Raashii Khanna; Srinidhi Shetty",
+   "status": "confirmed",
+   "evidence": "Streaming on Netflix in Kannada, Telugu, Tamil, Malayalam and Hindi.",
+   "sources": "https://videos.filmibeat.com/top-listing/new-ott-releases-this-week-in-kannada-2026-prime-video-netflix-zee5-jiohotstar-sun-nxt-and-sonyliv-3-1088.html | https://en.wikipedia.org/wiki/Telusu_Kada"
+  },
+  {
+   "title": "Thandel",
+   "year": "2025",
+   "original_language": "Telugu",
+   "director": "Chandoo Mondeti",
+   "starring": "Naga Chaitanya; Sai Pallavi",
+   "status": "confirmed",
+   "evidence": "The film was released on Netflix on 7 March 2025, and is available in Telugu, Hindi, Tamil, Kannada, and Malayalam.",
+   "sources": "https://en.wikipedia.org/wiki/Thandel"
+  },
+  {
+   "title": "They Call Him OG",
+   "year": "2025",
+   "original_language": "Telugu",
+   "director": "Sujeeth",
+   "starring": "Pawan Kalyan; Emraan Hashmi; Prakash Raj; Priyanka Mohan",
+   "status": "confirmed",
+   "evidence": "It began streaming on the platform from 23 October 2025 in Telugu and dubbed versions of Hindi, Tamil, Kannada and Malayalam languages.",
+   "sources": "https://en.wikipedia.org/wiki/They_Call_Him_OG | https://www.sacnilk.com/movie/OG_2024"
+  },
+  {
+   "title": "Vrusshabha",
+   "year": "2025",
+   "original_language": "Telugu",
+   "director": "Nanda Kishore",
+   "starring": "Mohanlal; Neha Saxena; Samarjit Lankesh",
+   "status": "announced",
+   "evidence": "The film, reportedly shot in Telugu and Malayalam, has dubbed versions in Hindi and Kannada languages.",
+   "sources": "https://en.wikipedia.org/wiki/Vrusshabha"
+  },
+  {
+   "title": "Buddy",
+   "year": "2024",
+   "original_language": "Telugu",
+   "director": "Sam Anton",
+   "starring": "Allu Sirish; Gayatri Bhardwaj; Prisha Rajesh Singh; Ajmal Ameer",
+   "status": "confirmed",
+   "evidence": "The digital rights of the film were acquired by Netflix, which premiered it on 30 August 2024, along with dubbed versions in Tamil, Malayalam, and Kannada.",
+   "sources": "https://en.wikipedia.org/wiki/Buddy_(2024_film)"
+  },
+  {
+   "title": "Devara: Part 1",
+   "year": "2024",
+   "original_language": "Telugu",
+   "director": "Koratala Siva",
+   "starring": "N. T. Rama Rao Jr; Saif Ali Khan; Janhvi Kapoor; Prakash Raj",
+   "status": "confirmed",
+   "evidence": "The film began streaming on Netflix from 8 November 2024 in Telugu and dubbed versions of Tamil, Malayalam and Kannada languages.",
+   "sources": "https://en.wikipedia.org/wiki/Devara:_Part_1"
+  },
+  {
+   "title": "Guntur Kaaram",
+   "year": "2024",
+   "original_language": "Telugu",
+   "director": "Trivikram Srinivas",
+   "starring": "Mahesh Babu; Jayaram; Ramya Krishna; Prakash Raj",
+   "status": "confirmed",
+   "evidence": "The film digital distribution rights were acquired by Netflix and premiered from 9 February 2024 in Telugu, Tamil, Malayalam, Kannada and Hindi.",
+   "sources": "https://en.wikipedia.org/wiki/Guntur_Kaaram"
+  },
+  {
+   "title": "Hanu-Man",
+   "year": "2024",
+   "original_language": "Telugu",
+   "director": "Prasanth Varma",
+   "starring": "Teja Sajja; Amritha Aiyer; Varalaxmi Sarathkumar; Samuthirakani",
+   "status": "confirmed",
+   "evidence": "The film was theatrically released on 12 January 2024 in Telugu, along with the dubbed versions of Tamil, Malayalam, Kannada and Hindi.",
+   "sources": "https://en.wikipedia.org/wiki/Hanu-Man | https://www.mysmartprice.com/gear/?p=318478"
+  },
+  {
+   "title": "Kalki 2898 AD",
+   "year": "2024",
+   "original_language": "Telugu",
+   "director": "Nag Ashwin",
+   "starring": "Amitabh Bachchan; Kamal Haasan; Prabhas; Deepika Padukone",
+   "status": "confirmed",
+   "evidence": "It premiered on Amazon Prime Video on 22 August 2024 in Telugu along with the Tamil, Malayalam and Kannada dubbed versions, while the Hindi dubbed version was released simultaneously on Netflix.",
+   "sources": "https://en.wikipedia.org/wiki/Kalki_2898_AD | https://www.aboutamazon.in/news/entertainment/kalki-2898-ad-prabhas-prime-video"
+  },
+  {
+   "title": "Lucky Baskhar",
+   "year": "2024",
+   "original_language": "Telugu",
+   "director": "Venky Atluri",
+   "starring": "Dulquer Salmaan; Meenakshi Chaudhary",
+   "status": "confirmed",
+   "evidence": "The film began streaming on Netflix from 28 November 2024 in Telugu and dubbed versions of Tamil, Malayalam, Kannada and Hindi languages.",
+   "sources": "https://en.wikipedia.org/wiki/Lucky_Baskhar"
+  },
+  {
+   "title": "Matka",
+   "year": "2024",
+   "original_language": "Telugu",
+   "director": "Karuna Kumar",
+   "starring": "Varun Tej; Meenakshi Chaudhary; Nora Fatehi",
+   "status": "confirmed",
+   "evidence": "The film began streaming on Amazon Prime Video from 5 December 2024 in Telugu and dubbed versions of Tamil, Hindi, Malayalam and Kannada languages.",
+   "sources": "https://en.wikipedia.org/wiki/Matka_(film)"
+  },
+  {
+   "title": "Mechanic Rocky",
+   "year": "2024",
+   "original_language": "Telugu",
+   "director": "Ravi Teja Mullapudi",
+   "starring": "Vishwak Sen; Meenakshi Chaudhary; Shraddha Srinath",
+   "status": "confirmed",
+   "evidence": "The film began streaming on Amazon Prime Video from 13 December 2024 in Telugu and dubbed versions of Tamil, Malayalam and Kannada languages.",
+   "sources": "https://en.wikipedia.org/wiki/Mechanic_Rocky"
+  },
+  {
+   "title": "Pushpa 2: The Rule",
+   "year": "2024",
+   "original_language": "Telugu",
+   "director": "Sukumar",
+   "starring": "Allu Arjun; Rashmika Mandanna; Fahadh Faasil; Jagapathi Babu",
+   "status": "confirmed",
+   "evidence": "The film's reloaded version, which included over 20 minutes of additional footage, began streaming on Netflix from 30 January 2025 in Telugu and dubbed versions of Hindi, Tamil, Malayalam and Kannada languages.",
+   "sources": "https://en.wikipedia.org/wiki/Pushpa_2:_The_Rule | https://www.sacnilk.com/movie/Pushpa_The_Rule_2021"
+  },
+  {
+   "title": "Saripodhaa Sanivaaram",
+   "year": "2024",
+   "original_language": "Telugu",
+   "director": "Vivek Athreya",
+   "starring": "Nani; S. J. Suryah; Priyanka Mohan",
+   "status": "confirmed",
+   "evidence": "Saripodhaa Sanivaaram was released on 29 August 2024 in Telugu along with its dubbed versions(titled Surya's Saturday) in Hindi,Tamil, Malayalam and Kannada.",
+   "sources": "https://en.wikipedia.org/wiki/Saripodhaa_Sanivaaram"
+  },
+  {
+   "title": "Aadikeshava",
+   "year": "2023",
+   "original_language": "Telugu",
+   "director": "Srikanth N. Reddy",
+   "starring": "Panja Vaisshnav Tej; Sreeleela; Joju George; Vinay Varma",
+   "status": "confirmed",
+   "evidence": "The film premiered on Netflix on 22 December 2023 in Telugu along with dubbed versions in Tamil, Kannada and Malayalam.",
+   "sources": "https://en.wikipedia.org/wiki/Aadikeshava"
+  },
+  {
+   "title": "Agent",
+   "year": "2023",
+   "original_language": "Telugu",
+   "director": "Surender Reddy",
+   "starring": "Mammootty; Akhil Akkineni; Dino Morea; Sakshi Vaidya",
+   "status": "confirmed",
+   "evidence": "SonyLIV acquired the digital streaming rights of the film and began streaming from March 14, 2025 in Tamil, Telugu, Malayalam and Kannada languages.",
+   "sources": "https://en.wikipedia.org/wiki/Agent_(film)"
+  },
+  {
+   "title": "Anni Manchi Sakunamule",
+   "year": "2023",
+   "original_language": "Telugu",
+   "director": "B. V. Nandini Reddy",
+   "starring": "Santosh Sobhan; Malvika Nair",
+   "status": "confirmed",
+   "evidence": "The film started streaming on Prime Video from June 17, 2023 in Telugu along with dubbed versions in Tamil, Hindi, Malayalam, and Kannada languages.",
+   "sources": "https://en.wikipedia.org/wiki/Anni_Manchi_Sakunamule"
+  },
+  {
+   "title": "Bhagavanth Kesari",
+   "year": "2023",
+   "original_language": "Telugu",
+   "director": "Anil Ravipudi",
+   "starring": "Nandamuri Balakrishna; Arjun Rampal; Kajal Aggarwal; Sreeleela",
+   "status": "confirmed",
+   "evidence": "The film's digital streaming rights were brought by Amazon Prime Video for ₹18 crore, while the satellite rights were brought by Zee Network in all languages (Expect Hindi Language), The film was premiered on Amazon Prime Video on 24 November 2023 in Telugu, along with dubbed versions in Tamil, Malayalam, Kannada, and Hindi.",
+   "sources": "https://en.wikipedia.org/wiki/Bhagavanth_Kesari"
+  },
+  {
+   "title": "Bro",
+   "year": "2023",
+   "original_language": "Telugu",
+   "director": "Samuthirakani",
+   "starring": "Pawan Kalyan; Sai Durgha Tej",
+   "status": "confirmed",
+   "evidence": "The film began streaming on Netflix from 25 August 2023 in Telugu and dubbed versions of Hindi, Tamil, Kannada and Malayalam languages.",
+   "sources": "https://en.wikipedia.org/wiki/Bro_(2023_film)"
+  },
+  {
+   "title": "Custody",
+   "year": "2023",
+   "original_language": "Telugu",
+   "director": "Venkat Prabhu",
+   "starring": "Naga Chaitanya; Arvind Swamy; Krithi Shetty; R. Sarathkumar",
+   "status": "confirmed",
+   "evidence": "Custody was available for streaming from 9 June 2023 on Amazon Prime Video in Telugu, Tamil languages and dubbed versions in Malayalam and Kannada languages.",
+   "sources": "https://en.wikipedia.org/wiki/Custody_(2023_film)"
+  },
+  {
+   "title": "Dasara",
+   "year": "2023",
+   "original_language": "Telugu",
+   "director": "Srikanth Odela",
+   "starring": "Nani; Keerthy Suresh; Dheekshith Shetty; Shine Tom Chacko",
+   "status": "confirmed",
+   "evidence": "It was released in Telugu and dubbed versions in Tamil, Kannada, Malayalam, and Hindi languages.",
+   "sources": "https://en.wikipedia.org/wiki/Dasara_(film)"
+  },
+  {
+   "title": "Hi Nanna",
+   "year": "2023",
+   "original_language": "Telugu",
+   "director": "Shouryuv",
+   "starring": "Nani; Mrunal Thakur",
+   "status": "confirmed",
+   "evidence": "Hi Nanna had a worldwide theatrical release on 7 December 2023, along with dubbed versions in Tamil, Malayalam, Kannada and Hindi.",
+   "sources": "https://en.wikipedia.org/wiki/Hi_Nanna"
+  },
+  {
+   "title": "Kushi",
+   "year": "2023",
+   "original_language": "Telugu",
+   "director": "Shiva Nirvana",
+   "starring": "Vijay Devarakonda; Samantha Ruth Prabhu; Samantha",
+   "status": "confirmed",
+   "evidence": "It was released in Telugu along with dubbed versions in Tamil, Kannada, Malayalam and Hindi languages.",
+   "sources": "https://en.wikipedia.org/wiki/Kushi_(2023_film)"
+  },
+  {
+   "title": "Lily",
+   "year": "2023",
+   "original_language": "Telugu",
+   "director": "Sivam",
+   "starring": "Baby Neha; Baby Pranitha Reddy; Master Vedanth Varma",
+   "status": "confirmed",
+   "evidence": "The film was released in five languages (Telugu, Tamil, Kannada, Malayalam and Hindi).",
+   "sources": "https://en.wikipedia.org/wiki/Lily_(2023_film)"
+  },
+  {
+   "title": "Malli Pelli",
+   "year": "2023",
+   "original_language": "Telugu",
+   "director": "M. S. Raju",
+   "starring": "Naresh; Pavitra Lokesh; Vanitha Vijayakumar",
+   "status": "confirmed",
+   "evidence": "The title Matthe Maduve was given to the Kannada dubbed version of the film.",
+   "sources": "https://en.wikipedia.org/wiki/Malli_Pelli_(2023_film)"
+  },
+  {
+   "title": "Mangalavaaram",
+   "year": "2023",
+   "original_language": "Telugu",
+   "director": "Ajay Bhupathi",
+   "starring": "Payal Rajput; Nandita Swetha; Priyadarshi Pulikonda; Divya Pillai",
+   "status": "confirmed",
+   "evidence": "It was released on 17 November 2023, with dubbed versions in four Indian languages: Mangalavaara in Kannada, Mangalavaar in Hindi, Chevvaikizhamai in Tamil and Chovvazhcha in Malayalam.",
+   "sources": "https://en.wikipedia.org/wiki/Mangalavaaram"
+  },
+  {
+   "title": "Martin Luther King",
+   "year": "2023",
+   "original_language": "Telugu",
+   "director": "Puja Kolluru",
+   "starring": "Sampoornesh Babu; Naresh; Sharanya Pradeep; Venkatesh Maha",
+   "status": "confirmed",
+   "evidence": "The film premiered on SonyLIV on 28 November 2023, in Telugu, as well as dubbed versions in Tamil, Kannada, Malayalam, and Hindi.",
+   "sources": "https://en.wikipedia.org/wiki/Martin_Luther_King_(film)"
+  },
+  {
+   "title": "Miss Shetty Mr Polishetty",
+   "year": "2023",
+   "original_language": "Telugu",
+   "director": "Mahesh Babu Pachigolla",
+   "starring": "Anushka Shetty; Naveen Polishetty",
+   "status": "confirmed",
+   "evidence": "Later, it was released on 7 September 2023 along with dubbed versions in Tamil, Malayalam and Kannada languages.",
+   "sources": "https://en.wikipedia.org/wiki/Miss_Shetty_Mr_Polishetty"
+  },
+  {
+   "title": "Salaar: Part 1 – Ceasefire",
+   "year": "2023",
+   "original_language": "Telugu",
+   "director": "Prashanth Neel",
+   "starring": "Prabhas; Prithviraj Sukumaran; Bobby Simha; Shruti Haasan",
+   "status": "confirmed",
+   "evidence": "Shruti Haasan began dubbing her portions in mid-August 2023, and did so in Telugu, Kannada, Tamil, Malayalam and Hindi.",
+   "sources": "https://en.wikipedia.org/wiki/Salaar:_Part_1_–_Ceasefire | https://www.mysmartprice.com/gear/?p=378596"
+  },
+  {
+   "title": "Shaakuntalam",
+   "year": "2023",
+   "original_language": "Telugu",
+   "director": "Gunasekhar",
+   "starring": "Samantha Ruth Prabhu; Dev Mohan",
+   "status": "confirmed",
+   "evidence": "Streaming on Prime Video in Telugu, Tamil, Malayalam, Kannada and Hindi.",
+   "sources": "https://www.123telugu.com/mnews/surprise-samanthas-shaakuntalam-makes-its-ott-debut.html?amp=1 | https://en.wikipedia.org/wiki/Shaakuntalam"
+  },
+  {
+   "title": "Skanda",
+   "year": "2023",
+   "original_language": "Telugu",
+   "director": "Boyapati Srinu; Boyapati Sreenu",
+   "starring": "Ram Pothineni; Sreeleela; Saiee Manjrekar; Srikanth",
+   "status": "confirmed",
+   "evidence": "Streaming on Disney+ Hotstar in Telugu, Tamil, Malayalam and Kannada.",
+   "sources": "https://www.123telugu.com/mnews/ram-pothinenis-skanda-makes-its-pan-south-debut-on-ott.html | https://en.wikipedia.org/wiki/Skanda_(film)"
+  },
+  {
+   "title": "Spy",
+   "year": "2023",
+   "original_language": "Telugu",
+   "director": "Garry BH",
+   "starring": "Nikhil Siddharth; Iswarya Menon; Abhinav Gomatam; Jisshu Sengupta",
+   "status": "confirmed",
+   "evidence": "The film was released on 29 June 2023 in Telugu, along with the dubbed versions of Hindi, Tamil, Malayalam and Kannada languages.",
+   "sources": "https://en.wikipedia.org/wiki/Spy_(2023_film)"
+  },
+  {
+   "title": "Tiger Nageswara Rao",
+   "year": "2023",
+   "original_language": "Telugu",
+   "director": "Vamsee",
+   "starring": "Ravi Teja; Anupam Kher; Jisshu Sengupta; Renu Desai",
+   "status": "confirmed",
+   "evidence": "The film was released on 20 October 2023, along with dubbed versions in Tamil, Hindi, Kannada, and Malayalam languages.",
+   "sources": "https://en.wikipedia.org/wiki/Tiger_Nageswara_Rao"
+  },
+  {
+   "title": "Virupaksha",
+   "year": "2023",
+   "original_language": "Telugu",
+   "director": "Karthik Varma Dandu",
+   "starring": "Sai Durgha Tej; Samyuktha",
+   "status": "confirmed",
+   "evidence": "The film was dubbed and theatrically released in Hindi, Tamil, Kannada and Malayalam languages on 5 May 2023.",
+   "sources": "https://en.wikipedia.org/wiki/Virupaksha_(film)"
+  },
+  {
+   "title": "Acharya",
+   "year": "2022",
+   "original_language": "Telugu",
+   "director": "Koratala Siva",
+   "starring": "Chiranjeevi; Ram Charan; Pooja Hegde; Sonu Sood",
+   "status": "confirmed",
+   "evidence": "The film premiered on Amazon Prime Video on 20 May 2022 in Telugu along with dubbed versions in Tamil, Malayalam and Kannada languages.",
+   "sources": "https://en.wikipedia.org/wiki/Acharya_(2022_film)"
+  },
+  {
+   "title": "Raajahyogam",
+   "year": "2022",
+   "original_language": "Telugu",
+   "director": "Ram Ganapathi",
+   "starring": "Sai Ronak; Ankita Saha; Ajay Ghosh; Bismi Naas",
+   "status": "confirmed",
+   "evidence": "From 9 February 2023, the film was available on Disney+Hotstar in Telugu, Tamil, Kannada, Hindi and Malayalam with same title.",
+   "sources": "https://en.wikipedia.org/wiki/Raajahyogam"
+  },
+  {
+   "title": "Radhe Shyam",
+   "year": "2022",
+   "original_language": "Telugu",
+   "director": "Radha Krishna Kumar",
+   "starring": "Prabhas; Pooja Hegde",
+   "status": "confirmed",
+   "evidence": "The film was released in Telugu, Hindi, Tamil, Kannada, and Malayalam languages.",
+   "sources": "https://en.wikipedia.org/wiki/Radhe_Shyam | https://www.sacnilk.com/movie/Radhe_Shyam_2021"
+  },
+  {
+   "title": "Ramarao on Duty",
+   "year": "2022",
+   "original_language": "Telugu",
+   "director": "Sarath Mandava",
+   "starring": "Ravi Teja; Divyansha Kaushik; Rajisha Vijayan; Chaitanya Krishna",
+   "status": "confirmed",
+   "evidence": "The film was digitally streamed on SonyLIV from 15 September 2022 in Telugu and dubbed versions of Tamil, Hindi, Malayalam and Kannada languages.",
+   "sources": "https://en.wikipedia.org/wiki/Ramarao_on_Duty"
+  },
+  {
+   "title": "RRR",
+   "year": "2022",
+   "original_language": "Telugu",
+   "director": "S. S. Rajamouli",
+   "starring": "N. T. Rama Rao Jr; Ram Charan; Ajay Devgn; Alia Bhatt",
+   "status": "confirmed",
+   "evidence": "Both Rama Rao and Charan dubbed their lines for four languages, namely Telugu, Hindi, Tamil and Kannada.",
+   "sources": "https://en.wikipedia.org/wiki/RRR | https://www.sacnilk.com/movie/RRR_2020"
+  },
+  {
+   "title": "Thaggedele",
+   "year": "2022",
+   "original_language": "Telugu",
+   "director": "Srinivas Raju",
+   "starring": "Naveen Chandra; Divya Pillai; Ananya Raj; P. Ravi Shankar",
+   "status": "confirmed",
+   "evidence": "The film was dubbed into Kannada as Hubli Dhaba.",
+   "sources": "https://en.wikipedia.org/wiki/Thaggedele"
+  },
+  {
+   "title": "The Ghost",
+   "year": "2022",
+   "original_language": "Telugu",
+   "director": "Praveen Sattaru",
+   "starring": "Nagarjuna; Sonal Chauhan",
+   "status": "confirmed",
+   "evidence": "The film was digitally streamed on Netflix from 2 November 2022 in Telugu and dubbed versions of Tamil, Hindi, Malayalam and Kannada languages.",
+   "sources": "https://en.wikipedia.org/wiki/The_Ghost_(2022_film)"
+  },
+  {
+   "title": "Yashoda",
+   "year": "2022",
+   "original_language": "Telugu",
+   "director": "Hari Shankar; Harish Narayan; Hari–Harish",
+   "starring": "Samantha Ruth Prabhu; Samantha; Unni Mukundan; Varalaxmi Sarathkumar",
+   "status": "confirmed",
+   "evidence": "Dubbed in Tamil, Hindi, Malayalam and Kannada; streaming on Prime Video in all five languages.",
+   "sources": "https://www.dnaindia.com/entertainment/report-yashoda-ott-release-date-when-where-to-watch-samantha-ruth-prabhu-starrer-actioner-on-prime-december-9-3008496 | https://en.wikipedia.org/wiki/Yashoda_(film)"
+  },
+  {
+   "title": "Gamanam",
+   "year": "2021",
+   "original_language": "Telugu",
+   "director": "Sujana Rao",
+   "starring": "Shriya Saran; Nithya Menen; Siva Kandukuri; Priyanka Jawalkar",
+   "status": "confirmed",
+   "evidence": "The Telugu version of the film was released on 10 December, while Hindi, Tamil, Malayalam and Kannada languages released on 1 March 2022 in Amazon Prime Video.",
+   "sources": "https://en.wikipedia.org/wiki/Gamanam_(2021_film)"
+  },
+  {
+   "title": "Love Story",
+   "year": "2021",
+   "original_language": "Telugu",
+   "director": "Sekhar Kammula",
+   "starring": "Naga Chaitanya; Sai Pallavi",
+   "status": "confirmed",
+   "evidence": "The Kannada and Malayalam versions ran in theatres alongside the Telugu original.",
+   "sources": "https://filmibeat.com/telugu/news/2021/love-story-day-7-box-office-collection-naga-chaitanya-s-film-crosses-rs-50-crore-mark-321969.html | https://en.wikipedia.org/wiki/Love_Story_(2021_film)"
+  },
+  {
+   "title": "Mosagallu",
+   "year": "2021",
+   "original_language": "Telugu",
+   "director": "Jeffrey Gee Chin",
+   "starring": "Vishnu Manchu; Kajal Aggarwal; Suniel Shetty; Ruhi Singh",
+   "status": "confirmed",
+   "evidence": "The Telugu version of the film was released on 19 March 2021 along with its dubbed versions in Hindi, Tamil and Kannada as Anu and Arjun, and in Malayalam as Arjun and Anu.",
+   "sources": "https://en.wikipedia.org/wiki/Mosagallu"
+  },
+  {
+   "title": "Pushpa: The Rise",
+   "year": "2021",
+   "original_language": "Telugu",
+   "director": "Sukumar",
+   "starring": "Allu Arjun; Rashmika Mandanna; Fahadh Faasil",
+   "status": "confirmed",
+   "evidence": "It was simultaneously released in Telugu and dubbed versions in Tamil, Kannada, Malayalam and Hindi languages.",
+   "sources": "https://en.wikipedia.org/wiki/Pushpa:_The_Rise"
+  },
+  {
+   "title": "Red",
+   "year": "2021",
+   "original_language": "Telugu",
+   "director": "Kishore Tirumala",
+   "starring": "Ram Pothineni; Nivetha Pethuraj; Malvika Sharma; Amritha Aiyer",
+   "status": "announced",
+   "evidence": "The Tamil dubbed version is scheduled for a direct premiere on OTT platform, whereas the Kannada dubbed version titled Clue will be released theatrically on 14 January 2021, along with the Telugu version.",
+   "sources": "https://en.wikipedia.org/wiki/Red_(2021_film)"
+  },
+  {
+   "title": "Shyam Singha Roy",
+   "year": "2021",
+   "original_language": "Telugu",
+   "director": "Rahul Sankrityan",
+   "starring": "Nani; Sai Pallavi; Krithi Shetty",
+   "status": "confirmed",
+   "evidence": "Apart from Telugu, the film was dubbed and released in Tamil, Malayalam, and Kannada languages.",
+   "sources": "https://en.wikipedia.org/wiki/Shyam_Singha_Roy"
+  },
+  {
+   "title": "Vakeel Saab",
+   "year": "2021",
+   "original_language": "Telugu",
+   "director": "Venu Sriram",
+   "starring": "Pawan Kalyan; Nivetha Thomas; Anjali; Ananya Nagalla",
+   "status": "confirmed",
+   "evidence": "The film was dubbed and released in Malayalam with the same name and in Kannada as Advocate.",
+   "sources": "https://en.wikipedia.org/wiki/Vakeel_Saab"
+  },
+  {
+   "title": "Wild Dog",
+   "year": "2021",
+   "original_language": "Telugu",
+   "director": "Ahishor Solomon",
+   "starring": "Nagarjuna Akkineni; Bilal Hossein; Dia Mirza; Saiyami Kher",
+   "status": "confirmed",
+   "evidence": "The film's digital premiere took place on Netflix on 22 April 2021, after 20 days of its theatrical run in Telugu along with dubbed versions in Kannada, Malayalam, and Tamil languages.",
+   "sources": "https://en.wikipedia.org/wiki/Wild_Dog_(film)"
+  },
+  {
+   "title": "Bheeshma",
+   "year": "2020",
+   "original_language": "Telugu",
+   "director": "Venky Kudumula",
+   "starring": "Nithiin; Rashmika Mandanna",
+   "status": "confirmed",
+   "evidence": "The film was released on Netflix and Sun NXT, (along with dubbed versions in Tamil, Kannada and Malayalam) on 9 April 2020 with English Subtitles.",
+   "sources": "https://en.wikipedia.org/wiki/Bheeshma_(2020_film)"
+  },
+  {
+   "title": "IIT Krishnamurthy",
+   "year": "2020",
+   "original_language": "Telugu",
+   "director": "Sree Vardhan",
+   "starring": "Dandamudi Pruthvi; Maira Doshi; Vinay Varma",
+   "status": "confirmed",
+   "evidence": "The film was dubbed in Tamil, Kannada and Malayalam with the same name.",
+   "sources": "https://en.wikipedia.org/wiki/IIT_Krishnamurthy"
+  },
+  {
+   "title": "Nishabdham",
+   "year": "2020",
+   "original_language": "Telugu",
+   "director": "Hemant Madhukar",
+   "starring": "Anushka Shetty; R. Madhavan; Michael Madsen; Anjali",
+   "status": "confirmed",
+   "evidence": "The film is released along with the dubbed versions in Malayalam and Kannada languages, through Amazon Prime Video on 2 October 2020.",
+   "sources": "https://en.wikipedia.org/wiki/Nishabdham"
+  },
+  {
+   "title": "Sarileru Neekevvaru",
+   "year": "2020",
+   "original_language": "Telugu",
+   "director": "Anil Ravipudi",
+   "starring": "Mahesh Babu; Vijayashanti; Rashmika Mandanna; Prakash Raj",
+   "status": "confirmed",
+   "evidence": "The film was also dubbed and released in Kannada as Major Ajay Krishna and in Malayalam as Krishnan.",
+   "sources": "https://en.wikipedia.org/wiki/Sarileru_Neekevvaru"
+  },
+  {
+   "title": "V",
+   "year": "2020",
+   "original_language": "Telugu",
+   "director": "Mohana Krishna Indraganti",
+   "starring": "Nani; Sudheer Babu; Nivetha Thomas; Aditi Rao Hydari",
+   "status": "confirmed",
+   "evidence": "Prime Video released the film with Tamil, Malayalam and Kannada audio.",
+   "sources": "https://newsable.asianetnews.com/entertainment/nanis-action-thriller-out-in-malayalam-tamil-and-kannada-syt-qga3zp | https://en.wikipedia.org/wiki/V_(2020_film)"
+  },
+  {
+   "title": "Dear Comrade",
+   "year": "2019",
+   "original_language": "Telugu",
+   "director": "Bharat Kamma",
+   "starring": "Vijay Deverakonda; Rashmika Mandanna; Shruti Ramachandran",
+   "status": "confirmed",
+   "evidence": "The film was theatrically released on 26 July 2019 in Telugu along with dubbed versions in Tamil, Malayalam, Kannada.",
+   "sources": "https://en.wikipedia.org/wiki/Dear_Comrade"
+  },
+  {
+   "title": "Maharshi",
+   "year": "2019",
+   "original_language": "Telugu",
+   "director": "Vamshi Paidipally",
+   "starring": "Mahesh Babu; Allari Naresh; Pooja Hegde",
+   "status": "confirmed",
+   "evidence": "The film was also dubbed and released in 2020 in Tamil as Ungalukkaga Oruvan, in Kannada as Veera Maharshi and in Malayalam.",
+   "sources": "https://en.wikipedia.org/wiki/Maharshi_(2019_film)"
+  },
+  {
+   "title": "Mr. Majnu",
+   "year": "2019",
+   "original_language": "Telugu",
+   "director": "Venky Atluri",
+   "starring": "Akhil Akkineni; Nidhhi Agerwal; Izabelle Leite",
+   "status": "confirmed",
+   "evidence": "The film had also been dubbed in Hindi and Kannada under the same title, and in Tamil as Maanidan.",
+   "sources": "https://en.wikipedia.org/wiki/Mr._Majnu"
+  },
+  {
+   "title": "Saaho",
+   "year": "2019",
+   "original_language": "Telugu",
+   "director": "Sujeeth",
+   "starring": "Prabhas; Shraddha Kapoor; Chunky Panday; Jackie Shroff",
+   "status": "confirmed",
+   "evidence": "The film began streaming on Amazon Prime Video from 19 October 2019 in Telugu, Tamil, Kannada and Malayalam languages.",
+   "sources": "https://en.wikipedia.org/wiki/Saaho"
+  },
+  {
+   "title": "Rangasthalam",
+   "year": "2018",
+   "original_language": "Telugu",
+   "director": "Sukumar",
+   "starring": "Ram Charan; Samantha Ruth Prabhu; Samantha Akkineni; Jagapathi Babu",
+   "status": "confirmed",
+   "evidence": "A Kannada-dubbed version of the film titled Rangasthala was released on 12 July 2019.",
+   "sources": "https://en.wikipedia.org/wiki/Rangasthalam"
+  },
+  {
+   "title": "Tholi Prema",
+   "year": "2018",
+   "original_language": "Telugu",
+   "director": "Venky Atluri",
+   "starring": "Varun Tej; Raashii Khanna",
+   "status": "confirmed",
+   "evidence": "The film later was dubbed in Hindi under the same title and Tamil as Manathil Nindraval - both in 2019, while a Kannada dub titled Modalne Preethi was released in 2023.",
+   "sources": "https://en.wikipedia.org/wiki/Tholi_Prema_(2018_film)"
+  },
+  {
+   "title": "Baahubali 2: The Conclusion",
+   "year": "2017",
+   "original_language": "Telugu",
+   "director": "S. S. Rajamouli",
+   "starring": "Prabhas; Rana Daggubati; Anushka Shetty; Tamannaah Bhatia",
+   "status": "confirmed",
+   "evidence": "The film was released on 28 April 2017 in Telugu, Tamil, Hindi, Kannada and Malayalam, and later dubbed in Japanese, Russian and Chinese.",
+   "sources": "https://en.wikipedia.org/wiki/Baahubali_2:_The_Conclusion"
+  },
+  {
+   "title": "DJ: Duvvada Jagannadham",
+   "year": "2017",
+   "original_language": "Telugu",
+   "director": "Harish Shankar",
+   "starring": "Allu Arjun; Pooja Hegde; Rao Ramesh",
+   "status": "confirmed",
+   "evidence": "The film's dubbed versions were released in Malayalam, Tamil, Kannada, Hindi and Bengali.",
+   "sources": "https://en.wikipedia.org/wiki/DJ:_Duvvada_Jagannadham"
+  },
+  {
+   "title": "Middle Class Abbayi",
+   "year": "2017",
+   "original_language": "Telugu",
+   "director": "Venu Sriram",
+   "starring": "Nani; Sai Pallavi; Bhumika Chawla; Vijay Varma",
+   "status": "confirmed",
+   "evidence": "It was also dubbed in Kannada as Middle Class Huduga.",
+   "sources": "https://en.wikipedia.org/wiki/Middle_Class_Abbayi"
+  },
+  {
+   "title": "Babu Bangaram",
+   "year": "2016",
+   "original_language": "Telugu",
+   "director": "Maruthi",
+   "starring": "Venkatesh; Nayanthara",
+   "status": "confirmed",
+   "evidence": "In 2017, it was dubbed into Hindi as Revolver Raja, and in 2021, it was dubbed in Kannada as Babu Bangara.",
+   "sources": "https://en.wikipedia.org/wiki/Babu_Bangaram"
+  },
+  {
+   "title": "Supreme",
+   "year": "2016",
+   "original_language": "Telugu",
+   "director": "Anil Ravipudi",
+   "starring": "Sai Dharam Tej; Raashii Khanna",
+   "status": "confirmed",
+   "evidence": "It was dubbed in Malayalam and Bhojpuri with same title, while the Hindi version was titled as Supreme Khiladi and Kannada version as Superior.",
+   "sources": "https://en.wikipedia.org/wiki/Supreme_(film)"
+  },
+  {
+   "title": "Baahubali: The Beginning",
+   "year": "2015",
+   "original_language": "Telugu",
+   "director": "S. S. Rajamouli",
+   "starring": "Prabhas; Rana Daggubati; Anushka Shetty; Tamannaah Bhatia",
+   "status": "confirmed",
+   "evidence": "The Kannada dubbed version was given to Colors Kannada.",
+   "sources": "https://en.wikipedia.org/wiki/Baahubali:_The_Beginning"
+  },
+  {
+   "title": "S/O Satyamurthy",
+   "year": "2015",
+   "original_language": "Telugu",
+   "director": "Trivikram Srinivas",
+   "starring": "Allu Arjun; Upendra; Samantha Ruth Prabhu; Samantha",
+   "status": "announced",
+   "evidence": "A dubbed Kannada version, along with Tamil and Malayalam, later was planned because of Upendra and Allu Arjun's popularity in Karnataka.",
+   "sources": "https://en.wikipedia.org/wiki/S/O_Satyamurthy"
+  },
+  {
+   "title": "Dookudu",
+   "year": "2011",
+   "original_language": "Telugu",
+   "director": "Srinu Vaitla",
+   "starring": "Mahesh Babu; Samantha Akkineni; Samantha; Prakash Raj",
+   "status": "confirmed",
+   "evidence": "It was dubbed in Hindi as The Real Tiger, Tamil as Athiradi Vettai and Malayalam as Choodan, Odia as Dookudu, and Kannada as Police Power.",
+   "sources": "https://en.wikipedia.org/wiki/Dookudu"
+  },
+  {
+   "title": "Panchakshari",
+   "year": "2010",
+   "original_language": "Telugu",
+   "director": "V. Samudra",
+   "starring": "Anushka Shetty; Samrat reddy; Samrat Reddy; Chandra Mohan",
+   "status": "confirmed",
+   "evidence": "It was dubbed in Kannada under the same name, in Tamil as Panchamukhi and in Hindi as Vaishnavi.",
+   "sources": "https://en.wikipedia.org/wiki/Panchakshari"
+  },
+  {
+   "title": "Ashok",
+   "year": "2006",
+   "original_language": "Telugu",
+   "director": "Surender Reddy",
+   "starring": "N. T. Rama Rao Jr; Sameera Reddy; Prakash Raj; Sonu Sood",
+   "status": "confirmed",
+   "evidence": "The Kannada Dubbed version was telecasted on Zee Kannada.",
+   "sources": "https://en.wikipedia.org/wiki/Ashok_(film)"
+  },
+  {
+   "title": "Rakhi",
+   "year": "2006",
+   "original_language": "Telugu",
+   "director": "Krishna Vamsi",
+   "starring": "N. T. Rama Rao Jr; Ileana D'Cruz; Charmme Kaur",
+   "status": "confirmed",
+   "evidence": "It was also dubbed in Kannada under the same title.",
+   "sources": "https://en.wikipedia.org/wiki/Rakhi_(2006_film)"
+  },
+  {
+   "title": "Manmadhudu",
+   "year": "2002",
+   "original_language": "Telugu",
+   "director": "K. Vijaya Bhaskar",
+   "starring": "Nagarjuna Akkineni; Sonali Bendre; Anshu Ambani; Anshu",
+   "status": "confirmed",
+   "evidence": "It was later dubbed in Hindi as Patthar Dil and despite having a Kannada remake, it was dubbed in Kannada as Manmatharu.",
+   "sources": "https://en.wikipedia.org/wiki/Manmadhudu"
+  },
+  {
+   "title": "Mechanic Mavayya",
+   "year": "1999",
+   "original_language": "Telugu",
+   "director": "Rajendra Singh Babu",
+   "starring": "Rajasekhar; Rambha",
+   "status": "confirmed",
+   "evidence": "Reviewing the Kannada dubbed version, Srikanth Srinivasa of the Deccan Herald wrote, \"Though Bharat 2000 makes an attempt to draw the attention of the audiences to the technical wizardry, the story and screenplay of the film have failed to bolster the film.",
+   "sources": "https://en.wikipedia.org/wiki/Mechanic_Mavayya"
+  },
+  {
+   "title": "Maro Charitra",
+   "year": "1978",
+   "original_language": "Telugu",
+   "director": "K. Balachander",
+   "starring": "Kamal Haasan; Saritha",
+   "status": "confirmed",
+   "evidence": "Owing to its success in its native state, the producers released the film in the neighbouring territories of Tamil Nadu and Karnataka without dubbing in Tamil and Kannada.",
+   "sources": "https://en.wikipedia.org/wiki/Maro_Charitra"
+  },
+  {
+   "title": "Yasodha Krishna",
+   "year": "1975",
+   "original_language": "Telugu",
+   "director": "C. S. Rao",
+   "starring": "S. V. Ranga Rao; Jamuna; Rohini; Baby Rohini",
+   "status": "confirmed",
+   "evidence": "Yasodha Krishna was later dubbed into Kannada under the same title.",
+   "sources": "https://en.wikipedia.org/wiki/Yasodha_Krishna"
+  },
+  {
+   "title": "Veeranjaneya",
+   "year": "1968",
+   "original_language": "Telugu",
+   "director": "Kamalakara Kameswara Rao",
+   "starring": "Arja Janardhana Rao; Kanta Rao; Anjali Devi; S. V. Ranga Rao",
+   "status": "confirmed",
+   "evidence": "The film was dubbed in Kannada as Veeranjaneya Katha in 1974.",
+   "sources": "https://en.wikipedia.org/wiki/Veeranjaneya"
+  },
+  {
+   "title": "Bhakta Prahlada",
+   "year": "1967",
+   "original_language": "Telugu",
+   "director": "Chitrapu Narayana Rao",
+   "starring": "S. V. Ranga Rao; Anjali Devi; Roja Ramani",
+   "status": "confirmed",
+   "evidence": "The dubbed Kannada version, also entitled Bhakta Prahlada, was released by AVM on 26 March 1974.",
+   "sources": "https://en.wikipedia.org/wiki/Bhakta_Prahlada_(1967_film)"
+  },
+  {
+   "title": "Lava Kusa",
+   "year": "1963",
+   "original_language": "Telugu",
+   "director": "C. Pullayya; C. S. Rao",
+   "starring": "N. T. Rama Rao; Anjali Devi; Kantha Rao",
+   "status": "confirmed",
+   "evidence": "The film was also dubbed in Kannada and later in Hindi in 1974.",
+   "sources": "https://en.wikipedia.org/wiki/Lava_Kusa_(1963_film)"
+  },
+  {
+   "title": "Sri Krishnarjuna Yuddhamu",
+   "year": "1963",
+   "original_language": "Telugu",
+   "director": "K. V. Reddy",
+   "starring": "N. T. Rama Rao; Akkineni Nageswara Rao; B. Saroja Devi",
+   "status": "confirmed",
+   "evidence": "It was later dubbed into Kannada and into Tamil.",
+   "sources": "https://en.wikipedia.org/wiki/Sri_Krishnarjuna_Yuddhamu"
+  },
+  {
+   "title": "Jagadekaveeruni Katha",
+   "year": "1961",
+   "original_language": "Telugu",
+   "director": "K. V. Reddy",
+   "starring": "N. T. Rama Rao; B. Saroja Devi",
+   "status": "confirmed",
+   "evidence": "The film was subsequently dubbed into Tamil as Jagathalaprathapan, Kannada as Jagadekaveerana Kathe, and also into Bengali, Oriya, and Hindi languages.",
+   "sources": "https://en.wikipedia.org/wiki/Jagadekaveeruni_Katha"
+  },
+  {
+   "title": "Deepavali",
+   "year": "1960",
+   "original_language": "Telugu",
+   "director": "S. Rajnikanth",
+   "starring": "N. T. Rama Rao; Savitri",
+   "status": "confirmed",
+   "evidence": "It was dubbed in 1974 in Kannada as Narakasura Vadhe,",
+   "sources": "https://en.wikipedia.org/wiki/Deepavali_(1960_film)"
+  },
+  {
+   "title": "Mayabazar",
+   "year": "1957",
+   "original_language": "Telugu",
+   "director": "K. V. Reddy",
+   "starring": "N. T. Rama Rao; Akkineni Nageswara Rao; Gemini Ganesan; Savitri",
+   "status": "confirmed",
+   "evidence": "The Telugu version of Mayabazar was also dubbed into Kannada.",
+   "sources": "https://en.wikipedia.org/wiki/Mayabazar"
+  },
+  {
+   "title": "Maa Gopi",
+   "year": "1954",
+   "original_language": "Telugu",
+   "director": "B. S. Ranga",
+   "starring": "V. Nagayya; G. Varalakshmi; Vallam Narasimha Rao; Jamuna",
+   "status": "announced",
+   "evidence": "Ranga also planned to dub it into Kannada and engaged his friend and popular writer Chi.",
+   "sources": "https://en.wikipedia.org/wiki/Maa_Gopi"
+  },
+  {
+   "title": "1770: Ek Sangram",
+   "year": "",
+   "original_language": "Telugu",
+   "director": "Ashwin Gangaraju",
+   "starring": "",
+   "status": "confirmed",
+   "evidence": "1770: Ek Sangram is made in Hindi, Tamil, Telugu simultaneously and dubbed versions in Kannada, Malayalam and Bengali languages.",
+   "sources": "https://en.wikipedia.org/wiki/1770:_Ek_Sangram"
+  }
+ ]
+}
