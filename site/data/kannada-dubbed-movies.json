@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09",
+ "updated": "2026-11-16",
  "licence": "CC BY-SA 4.0",
  "films": [
   {
@@ -513,6 +513,16 @@
    "sources": "https://en.wikipedia.org/wiki/Bethlehem_Kudumba_Unit"
   },
   {
+   "title": "Bouma",
+   "year": "2026",
+   "original_language": "Malayalam",
+   "director": "Rejin S. Babu",
+   "starring": "Sagar Surya; Dileesh Pothan; Vineeth; Revathy Sarma",
+   "status": "confirmed",
+   "evidence": "Apart from Malayalam, Bouma has also been released in Tamil, Telugu, Hindi and Kannada languages.",
+   "sources": "https://en.wikipedia.org/wiki/Bouma_(film)"
+  },
+  {
    "title": "Drishyam 3",
    "year": "2026",
    "original_language": "Malayalam",
@@ -527,7 +537,7 @@
    "year": "2026",
    "original_language": "Malayalam",
    "director": "Nahas Hidhayath",
-   "starring": "Dulquer Salmaan; Antony Varghese; Mysskin; Kathir",
+   "starring": "Dulquer Salmaan; Antony Varghese; Mysskin; Kayadu Lohar",
    "status": "confirmed",
    "evidence": "I'm Game was released Worldwide on 3 September 2026 in its original Malayalam language, also it was dubbed in Telugu, Kannada, Tamil and Hindi languages in standard, EPIQ and P[XL] formats.",
    "sources": "https://en.wikipedia.org/wiki/I'm_Game_(film)"
@@ -1118,8 +1128,8 @@
    "original_language": "Tamil",
    "director": "Nelson Dilipkumar",
    "starring": "Rajinikanth; S. J. Suryah; Mithun Chakraborty; Suraj Venjaramoodu",
-   "status": "announced",
-   "evidence": "The film will begin streaming on the platform from 12 November 2026 in Tamil and dubbed versions of Telugu, Hindi, Malayalam and Kannada languages.",
+   "status": "confirmed",
+   "evidence": "The film began streaming on the platform from 12 November 2026 in Tamil and dubbed versions of Telugu, Hindi, Malayalam and Kannada languages.",
    "sources": "https://en.wikipedia.org/wiki/Jailer_2 | https://www.sacnilk.com/movie/Jailer_2_2026"
   },
   {
