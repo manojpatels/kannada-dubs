@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16",
+ "updated": "2026-11-23",
  "licence": "CC BY-SA 4.0",
  "films": [
   {
@@ -269,7 +269,7 @@
    "director": "Nitesh Tiwari",
    "starring": "Ranbir Kapoor; Yash; Sai Pallavi; Ravi Dubey",
    "status": "confirmed",
-   "evidence": "Kelkar explained that the filmmakers' decision to dub over Yash was due to his Kannada accent affecting the rhythm of his Hindi dialogues.",
+   "evidence": "Kelkar explained that the filmmakers' decision to dub over Yash was due to his Kannada accent affecting the rhythm of his Hindi dialogue.",
    "sources": "https://en.wikipedia.org/wiki/Ramayana:_Part_1 | https://www.sacnilk.com/movie/ramayana_part_1_2026"
   },
   {
@@ -287,7 +287,7 @@
    "year": "2025",
    "original_language": "Hindi",
    "director": "Aditya Dhar",
-   "starring": "Ranveer Singh; Akshaye Khanna; Arjun Rampal; R. Madhavan",
+   "starring": "Ranveer Singh; Akshaye Khanna; Sanjay Dutt; Arjun Rampal",
    "status": "confirmed",
    "evidence": "Alongside its original Hindi language, it was also released in the Telugu, Tamil, Malayalam, and Kannada languages.",
    "sources": "https://en.wikipedia.org/wiki/Dhurandhar"
@@ -507,7 +507,7 @@
    "year": "2026",
    "original_language": "Malayalam",
    "director": "Girish A. D",
-   "starring": "Mamitha Baiju; Nivin Pauly",
+   "starring": "Nivin Pauly; Mamitha Baiju; Sangeeth Prathap; Suresh Krishna",
    "status": "confirmed",
    "evidence": "The film began streaming on JioHotstar from 2 October 2026 in Malayalam and dubbed versions of Tamil, Hindi, Telugu and Kannada languages.",
    "sources": "https://en.wikipedia.org/wiki/Bethlehem_Kudumba_Unit"
@@ -519,8 +519,18 @@
    "director": "Rejin S. Babu",
    "starring": "Sagar Surya; Dileesh Pothan; Vineeth; Revathy Sarma",
    "status": "confirmed",
-   "evidence": "Apart from Malayalam, Bouma has also been released in Tamil, Telugu, Hindi and Kannada languages.",
+   "evidence": "Apart from Malayalam, Bouma was also released in Tamil, Telugu, Hindi and Kannada languages.",
    "sources": "https://en.wikipedia.org/wiki/Bouma_(film)"
+  },
+  {
+   "title": "Cosmic Samson",
+   "year": "2026",
+   "original_language": "Malayalam",
+   "director": "Abhijith Joseph",
+   "starring": "Sandeep Pradeep; Mukesh_; Mukesh",
+   "status": "announced",
+   "evidence": "The film is scheduled for a worldwide theatrical release on 27 November 2026 in Malayalam, along with dubbed versions in Tamil, Telugu, Hindi, and Kannada.",
+   "sources": "https://en.wikipedia.org/wiki/Cosmic_Samson"
   },
   {
    "title": "Drishyam 3",
@@ -1107,7 +1117,7 @@
    "year": "",
    "original_language": "Malayalam",
    "director": "Rojin Thomas",
-   "starring": "Jayasurya; Anushka Shetty; Prabhu Deva; Sanoop Santhosh",
+   "starring": "Jayasurya; Anushka Shetty; Prabhu Deva; Vineeth",
    "status": "announced",
    "evidence": "Alongside the original Malayalam version, the makers are planning to release the film in multiple dubbed languages, including Tamil, Telugu, Kannada, Bengali, Chinese, French, Korean, Italian, Russian, Indonesian, Japanese, German, Hindi and English.",
    "sources": "https://en.wikipedia.org/wiki/Kathanar_–_The_Wild_Sorcerer"
@@ -1517,7 +1527,7 @@
    "year": "2024",
    "original_language": "Tamil",
    "director": "Pa. Ranjith",
-   "starring": "Vikram; Pasupathy; Parvathy Thiruvothu; Malavika Mohanan",
+   "starring": "Vikram; Malavika Mohanan; Pasupathy; Parvathy Thiruvothu",
    "status": "confirmed",
    "evidence": "The film was released in Tamil, Hindi, Telugu, Kannada and Malayalam by KVN Productions in Karnataka.",
    "sources": "https://en.wikipedia.org/wiki/Thangalaan"
@@ -1929,7 +1939,7 @@
    "director": "Kirtan Nadagouda",
    "starring": "Chaithra J. Achar; Ramesh Indira; Surya Raj Veerabathini; Charan Lakkaraju",
    "status": "announced",
-   "evidence": "In 2 October 2026, the makers locked 23 October 2026 for the film's worldwide theatrical release in Telugu, Kannada, Tamil, and Hindi, coinciding with the Dasara festive window.",
+   "evidence": "The post-theatrical digital streaming rights of the film were acquired by Netflix, and the film began streaming on the platform from 20 November 2026 in Telugu and dubbed versions of Hindi, Tamil, Kannada and Malayalam languages.",
    "sources": "https://en.wikipedia.org/wiki/418_(film)"
   },
   {
@@ -2167,7 +2177,7 @@
    "year": "2025",
    "original_language": "Telugu",
    "director": "Mukesh Kumar Singh",
-   "starring": "Mohanlal; Prabhas; Akshay Kumar; Kajal Aggarwal",
+   "starring": "Vishnu Manchu; Preity Mukhundhan; Mohan Babu; R. Sarathkumar",
    "status": "confirmed",
    "evidence": "Streaming on Prime Video since 4 September 2025 in Telugu with Tamil, Kannada and Malayalam dubs.",
    "sources": "https://videos.filmibeat.com/telugu/news/2025/kannappa-now-streaming-on-ott-heres-where-to-watch-vishnu-manchu-movie-online-477765.html | https://en.wikipedia.org/wiki/Kannappa_(film)"
